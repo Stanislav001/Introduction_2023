@@ -4,7 +4,29 @@
     {
         static void Main(string[] args)
         {
-            int myAge = 22;
+            int credits = 0;
+
+            Console.WriteLine("Now you have " + credits + " credits");
+
+            Console.Write("Please enter number of students: ");
+            int numberOfStudents = int.Parse(Console.ReadLine());
+            
+            for (int i = 0; i < numberOfStudents; i++)
+            {
+                Console.Write("Please enter a student name: ");
+                string studentName = Console.ReadLine();
+                
+                if (studentName.Length >= 5)
+                {
+                    credits += 10;
+                }
+                else
+                {
+                    credits += 5;
+                }
+            }
+
+            Console.WriteLine("Now you have " + credits + " credits");
             
             string myName = "Ivan Ivanov Petrov";
             int charsOfMyName = myName.Length;
@@ -30,7 +52,6 @@
                 Console.WriteLine("Iteration " + count);
                 count++;
             }
-
         }
     }
 }
