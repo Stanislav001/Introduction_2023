@@ -1,0 +1,15 @@
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\01_Introduction\01_Introduction\bin\Debug\net6.0\01_Introduction.exe
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\01_Introduction\01_Introduction\bin\Debug\net6.0\01_Introduction.deps.json
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\01_Introduction\01_Introduction\bin\Debug\net6.0\01_Introduction.runtimeconfig.json
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\01_Introduction\01_Introduction\bin\Debug\net6.0\01_Introduction.dll
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\01_Introduction\01_Introduction\bin\Debug\net6.0\01_Introduction.pdb
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\01_Introduction\01_Introduction\obj\Debug\net6.0\01_Introduction.csproj.AssemblyReference.cache
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\01_Introduction\01_Introduction\obj\Debug\net6.0\01_Introduction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\01_Introduction\01_Introduction\obj\Debug\net6.0\01_Introduction.AssemblyInfoInputs.cache
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\01_Introduction\01_Introduction\obj\Debug\net6.0\01_Introduction.AssemblyInfo.cs
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\01_Introduction\01_Introduction\obj\Debug\net6.0\01_Introduction.csproj.CoreCompileInputs.cache
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\01_Introduction\01_Introduction\obj\Debug\net6.0\01_Introduction.dll
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\01_Introduction\01_Introduction\obj\Debug\net6.0\refint\01_Introduction.dll
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\01_Introduction\01_Introduction\obj\Debug\net6.0\01_Introduction.pdb
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\01_Introduction\01_Introduction\obj\Debug\net6.0\01_Introduction.genruntimeconfig.cache
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\01_Introduction\01_Introduction\obj\Debug\net6.0\ref\01_Introduction.dll

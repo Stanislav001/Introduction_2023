@@ -1,0 +1,15 @@
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\03_Loops\03_Loops\bin\Debug\net6.0\03_Loops.exe
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\03_Loops\03_Loops\bin\Debug\net6.0\03_Loops.deps.json
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\03_Loops\03_Loops\bin\Debug\net6.0\03_Loops.runtimeconfig.json
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\03_Loops\03_Loops\bin\Debug\net6.0\03_Loops.dll
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\03_Loops\03_Loops\bin\Debug\net6.0\03_Loops.pdb
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\03_Loops\03_Loops\obj\Debug\net6.0\03_Loops.csproj.AssemblyReference.cache
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\03_Loops\03_Loops\obj\Debug\net6.0\03_Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\03_Loops\03_Loops\obj\Debug\net6.0\03_Loops.AssemblyInfoInputs.cache
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\03_Loops\03_Loops\obj\Debug\net6.0\03_Loops.AssemblyInfo.cs
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\03_Loops\03_Loops\obj\Debug\net6.0\03_Loops.csproj.CoreCompileInputs.cache
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\03_Loops\03_Loops\obj\Debug\net6.0\03_Loops.dll
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\03_Loops\03_Loops\obj\Debug\net6.0\refint\03_Loops.dll
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\03_Loops\03_Loops\obj\Debug\net6.0\03_Loops.pdb
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\03_Loops\03_Loops\obj\Debug\net6.0\03_Loops.genruntimeconfig.cache
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\03_Loops\03_Loops\obj\Debug\net6.0\ref\03_Loops.dll
