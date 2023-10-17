@@ -1,0 +1,15 @@
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\04_Arrays\P01_DayOfWeek\bin\Debug\net6.0\P01_DayOfWeek.exe
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\04_Arrays\P01_DayOfWeek\bin\Debug\net6.0\P01_DayOfWeek.deps.json
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\04_Arrays\P01_DayOfWeek\bin\Debug\net6.0\P01_DayOfWeek.runtimeconfig.json
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\04_Arrays\P01_DayOfWeek\bin\Debug\net6.0\P01_DayOfWeek.dll
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\04_Arrays\P01_DayOfWeek\bin\Debug\net6.0\P01_DayOfWeek.pdb
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\04_Arrays\P01_DayOfWeek\obj\Debug\net6.0\P01_DayOfWeek.csproj.AssemblyReference.cache
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\04_Arrays\P01_DayOfWeek\obj\Debug\net6.0\P01_DayOfWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\04_Arrays\P01_DayOfWeek\obj\Debug\net6.0\P01_DayOfWeek.AssemblyInfoInputs.cache
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\04_Arrays\P01_DayOfWeek\obj\Debug\net6.0\P01_DayOfWeek.AssemblyInfo.cs
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\04_Arrays\P01_DayOfWeek\obj\Debug\net6.0\P01_DayOfWeek.csproj.CoreCompileInputs.cache
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\04_Arrays\P01_DayOfWeek\obj\Debug\net6.0\P01_DayOfWeek.dll
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\04_Arrays\P01_DayOfWeek\obj\Debug\net6.0\refint\P01_DayOfWeek.dll
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\04_Arrays\P01_DayOfWeek\obj\Debug\net6.0\P01_DayOfWeek.pdb
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\04_Arrays\P01_DayOfWeek\obj\Debug\net6.0\P01_DayOfWeek.genruntimeconfig.cache
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\04_Arrays\P01_DayOfWeek\obj\Debug\net6.0\ref\P01_DayOfWeek.dll

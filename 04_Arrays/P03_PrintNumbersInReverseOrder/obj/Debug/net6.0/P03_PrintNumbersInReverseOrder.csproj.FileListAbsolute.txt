@@ -1,0 +1,15 @@
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\04_Arrays\P03_PrintNumbersInReverseOrder\bin\Debug\net6.0\P03_PrintNumbersInReverseOrder.exe
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\04_Arrays\P03_PrintNumbersInReverseOrder\bin\Debug\net6.0\P03_PrintNumbersInReverseOrder.deps.json
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\04_Arrays\P03_PrintNumbersInReverseOrder\bin\Debug\net6.0\P03_PrintNumbersInReverseOrder.runtimeconfig.json
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\04_Arrays\P03_PrintNumbersInReverseOrder\bin\Debug\net6.0\P03_PrintNumbersInReverseOrder.dll
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\04_Arrays\P03_PrintNumbersInReverseOrder\bin\Debug\net6.0\P03_PrintNumbersInReverseOrder.pdb
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\04_Arrays\P03_PrintNumbersInReverseOrder\obj\Debug\net6.0\P03_PrintNumbersInReverseOrder.csproj.AssemblyReference.cache
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\04_Arrays\P03_PrintNumbersInReverseOrder\obj\Debug\net6.0\P03_PrintNumbersInReverseOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\04_Arrays\P03_PrintNumbersInReverseOrder\obj\Debug\net6.0\P03_PrintNumbersInReverseOrder.AssemblyInfoInputs.cache
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\04_Arrays\P03_PrintNumbersInReverseOrder\obj\Debug\net6.0\P03_PrintNumbersInReverseOrder.AssemblyInfo.cs
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\04_Arrays\P03_PrintNumbersInReverseOrder\obj\Debug\net6.0\P03_PrintNumbersInReverseOrder.csproj.CoreCompileInputs.cache
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\04_Arrays\P03_PrintNumbersInReverseOrder\obj\Debug\net6.0\P03_PrintNumbersInReverseOrder.dll
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\04_Arrays\P03_PrintNumbersInReverseOrder\obj\Debug\net6.0\refint\P03_PrintNumbersInReverseOrder.dll
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\04_Arrays\P03_PrintNumbersInReverseOrder\obj\Debug\net6.0\P03_PrintNumbersInReverseOrder.pdb
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\04_Arrays\P03_PrintNumbersInReverseOrder\obj\Debug\net6.0\P03_PrintNumbersInReverseOrder.genruntimeconfig.cache
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\04_Arrays\P03_PrintNumbersInReverseOrder\obj\Debug\net6.0\ref\P03_PrintNumbersInReverseOrder.dll

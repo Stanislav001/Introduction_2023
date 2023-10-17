@@ -1,0 +1,15 @@
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\04_Arrays\P06_EqualArrays\bin\Debug\net6.0\P06_EqualArrays.exe
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\04_Arrays\P06_EqualArrays\bin\Debug\net6.0\P06_EqualArrays.deps.json
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\04_Arrays\P06_EqualArrays\bin\Debug\net6.0\P06_EqualArrays.runtimeconfig.json
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\04_Arrays\P06_EqualArrays\bin\Debug\net6.0\P06_EqualArrays.dll
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\04_Arrays\P06_EqualArrays\bin\Debug\net6.0\P06_EqualArrays.pdb
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\04_Arrays\P06_EqualArrays\obj\Debug\net6.0\P06_EqualArrays.csproj.AssemblyReference.cache
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\04_Arrays\P06_EqualArrays\obj\Debug\net6.0\P06_EqualArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\04_Arrays\P06_EqualArrays\obj\Debug\net6.0\P06_EqualArrays.AssemblyInfoInputs.cache
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\04_Arrays\P06_EqualArrays\obj\Debug\net6.0\P06_EqualArrays.AssemblyInfo.cs
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\04_Arrays\P06_EqualArrays\obj\Debug\net6.0\P06_EqualArrays.csproj.CoreCompileInputs.cache
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\04_Arrays\P06_EqualArrays\obj\Debug\net6.0\P06_EqualArrays.dll
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\04_Arrays\P06_EqualArrays\obj\Debug\net6.0\refint\P06_EqualArrays.dll
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\04_Arrays\P06_EqualArrays\obj\Debug\net6.0\P06_EqualArrays.pdb
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\04_Arrays\P06_EqualArrays\obj\Debug\net6.0\P06_EqualArrays.genruntimeconfig.cache
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\04_Arrays\P06_EqualArrays\obj\Debug\net6.0\ref\P06_EqualArrays.dll

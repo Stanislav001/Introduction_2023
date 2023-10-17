@@ -1,0 +1,15 @@
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\04_Arrays\P05_ReverseArrayOfStrings\bin\Debug\net6.0\P05_ReverseArrayOfStrings.exe
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\04_Arrays\P05_ReverseArrayOfStrings\bin\Debug\net6.0\P05_ReverseArrayOfStrings.deps.json
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\04_Arrays\P05_ReverseArrayOfStrings\bin\Debug\net6.0\P05_ReverseArrayOfStrings.runtimeconfig.json
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\04_Arrays\P05_ReverseArrayOfStrings\bin\Debug\net6.0\P05_ReverseArrayOfStrings.dll
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\04_Arrays\P05_ReverseArrayOfStrings\bin\Debug\net6.0\P05_ReverseArrayOfStrings.pdb
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\04_Arrays\P05_ReverseArrayOfStrings\obj\Debug\net6.0\P05_ReverseArrayOfStrings.csproj.AssemblyReference.cache
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\04_Arrays\P05_ReverseArrayOfStrings\obj\Debug\net6.0\P05_ReverseArrayOfStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\04_Arrays\P05_ReverseArrayOfStrings\obj\Debug\net6.0\P05_ReverseArrayOfStrings.AssemblyInfoInputs.cache
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\04_Arrays\P05_ReverseArrayOfStrings\obj\Debug\net6.0\P05_ReverseArrayOfStrings.AssemblyInfo.cs
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\04_Arrays\P05_ReverseArrayOfStrings\obj\Debug\net6.0\P05_ReverseArrayOfStrings.csproj.CoreCompileInputs.cache
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\04_Arrays\P05_ReverseArrayOfStrings\obj\Debug\net6.0\P05_ReverseArrayOfStrings.dll
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\04_Arrays\P05_ReverseArrayOfStrings\obj\Debug\net6.0\refint\P05_ReverseArrayOfStrings.dll
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\04_Arrays\P05_ReverseArrayOfStrings\obj\Debug\net6.0\P05_ReverseArrayOfStrings.pdb
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\04_Arrays\P05_ReverseArrayOfStrings\obj\Debug\net6.0\P05_ReverseArrayOfStrings.genruntimeconfig.cache
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\04_Arrays\P05_ReverseArrayOfStrings\obj\Debug\net6.0\ref\P05_ReverseArrayOfStrings.dll
