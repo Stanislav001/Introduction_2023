@@ -1,0 +1,16 @@
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Arrays\ReverseArray\bin\Debug\net5.0\ReverseArray.exe
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Arrays\ReverseArray\bin\Debug\net5.0\ReverseArray.deps.json
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Arrays\ReverseArray\bin\Debug\net5.0\ReverseArray.runtimeconfig.json
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Arrays\ReverseArray\bin\Debug\net5.0\ReverseArray.runtimeconfig.dev.json
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Arrays\ReverseArray\bin\Debug\net5.0\ReverseArray.dll
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Arrays\ReverseArray\bin\Debug\net5.0\ReverseArray.pdb
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Arrays\ReverseArray\obj\Debug\net5.0\ReverseArray.csproj.AssemblyReference.cache
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Arrays\ReverseArray\obj\Debug\net5.0\ReverseArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Arrays\ReverseArray\obj\Debug\net5.0\ReverseArray.AssemblyInfoInputs.cache
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Arrays\ReverseArray\obj\Debug\net5.0\ReverseArray.AssemblyInfo.cs
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Arrays\ReverseArray\obj\Debug\net5.0\ReverseArray.csproj.CoreCompileInputs.cache
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Arrays\ReverseArray\obj\Debug\net5.0\ReverseArray.dll
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Arrays\ReverseArray\obj\Debug\net5.0\refint\ReverseArray.dll
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Arrays\ReverseArray\obj\Debug\net5.0\ReverseArray.pdb
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Arrays\ReverseArray\obj\Debug\net5.0\ReverseArray.genruntimeconfig.cache
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Arrays\ReverseArray\obj\Debug\net5.0\ref\ReverseArray.dll

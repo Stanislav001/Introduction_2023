@@ -1,0 +1,16 @@
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Arrays\ArrayReplace\bin\Debug\net5.0\ArrayReplace.exe
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Arrays\ArrayReplace\bin\Debug\net5.0\ArrayReplace.deps.json
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Arrays\ArrayReplace\bin\Debug\net5.0\ArrayReplace.runtimeconfig.json
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Arrays\ArrayReplace\bin\Debug\net5.0\ArrayReplace.runtimeconfig.dev.json
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Arrays\ArrayReplace\bin\Debug\net5.0\ArrayReplace.dll
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Arrays\ArrayReplace\bin\Debug\net5.0\ArrayReplace.pdb
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Arrays\ArrayReplace\obj\Debug\net5.0\ArrayReplace.csproj.AssemblyReference.cache
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Arrays\ArrayReplace\obj\Debug\net5.0\ArrayReplace.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Arrays\ArrayReplace\obj\Debug\net5.0\ArrayReplace.AssemblyInfoInputs.cache
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Arrays\ArrayReplace\obj\Debug\net5.0\ArrayReplace.AssemblyInfo.cs
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Arrays\ArrayReplace\obj\Debug\net5.0\ArrayReplace.csproj.CoreCompileInputs.cache
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Arrays\ArrayReplace\obj\Debug\net5.0\ArrayReplace.dll
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Arrays\ArrayReplace\obj\Debug\net5.0\refint\ArrayReplace.dll
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Arrays\ArrayReplace\obj\Debug\net5.0\ArrayReplace.pdb
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Arrays\ArrayReplace\obj\Debug\net5.0\ArrayReplace.genruntimeconfig.cache
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Arrays\ArrayReplace\obj\Debug\net5.0\ref\ArrayReplace.dll

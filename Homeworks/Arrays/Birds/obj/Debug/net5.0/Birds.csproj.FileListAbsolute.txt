@@ -1,0 +1,63 @@
+D:\Курсове\Lectures\All presentations git\Trainings git\Birds\bin\Debug\net5.0\Birds.exe
+D:\Курсове\Lectures\All presentations git\Trainings git\Birds\bin\Debug\net5.0\Birds.deps.json
+D:\Курсове\Lectures\All presentations git\Trainings git\Birds\bin\Debug\net5.0\Birds.runtimeconfig.json
+D:\Курсове\Lectures\All presentations git\Trainings git\Birds\bin\Debug\net5.0\Birds.runtimeconfig.dev.json
+D:\Курсове\Lectures\All presentations git\Trainings git\Birds\bin\Debug\net5.0\Birds.dll
+D:\Курсове\Lectures\All presentations git\Trainings git\Birds\bin\Debug\net5.0\Birds.pdb
+D:\Курсове\Lectures\All presentations git\Trainings git\Birds\obj\Debug\net5.0\Birds.csproj.AssemblyReference.cache
+D:\Курсове\Lectures\All presentations git\Trainings git\Birds\obj\Debug\net5.0\Birds.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курсове\Lectures\All presentations git\Trainings git\Birds\obj\Debug\net5.0\Birds.AssemblyInfoInputs.cache
+D:\Курсове\Lectures\All presentations git\Trainings git\Birds\obj\Debug\net5.0\Birds.AssemblyInfo.cs
+D:\Курсове\Lectures\All presentations git\Trainings git\Birds\obj\Debug\net5.0\Birds.csproj.CoreCompileInputs.cache
+D:\Курсове\Lectures\All presentations git\Trainings git\Birds\obj\Debug\net5.0\Birds.dll
+D:\Курсове\Lectures\All presentations git\Trainings git\Birds\obj\Debug\net5.0\refint\Birds.dll
+D:\Курсове\Lectures\All presentations git\Trainings git\Birds\obj\Debug\net5.0\Birds.pdb
+D:\Курсове\Lectures\All presentations git\Trainings git\Birds\obj\Debug\net5.0\Birds.genruntimeconfig.cache
+D:\Курсове\Lectures\All presentations git\Trainings git\Birds\obj\Debug\net5.0\ref\Birds.dll
+D:\Курсове\Lectures\All presentations git\Trainings git\Intro\Arrays\Birds\bin\Debug\net5.0\Birds.exe
+D:\Курсове\Lectures\All presentations git\Trainings git\Intro\Arrays\Birds\bin\Debug\net5.0\Birds.deps.json
+D:\Курсове\Lectures\All presentations git\Trainings git\Intro\Arrays\Birds\bin\Debug\net5.0\Birds.runtimeconfig.json
+D:\Курсове\Lectures\All presentations git\Trainings git\Intro\Arrays\Birds\bin\Debug\net5.0\Birds.runtimeconfig.dev.json
+D:\Курсове\Lectures\All presentations git\Trainings git\Intro\Arrays\Birds\bin\Debug\net5.0\Birds.dll
+D:\Курсове\Lectures\All presentations git\Trainings git\Intro\Arrays\Birds\bin\Debug\net5.0\Birds.pdb
+D:\Курсове\Lectures\All presentations git\Trainings git\Intro\Arrays\Birds\obj\Debug\net5.0\Birds.csproj.AssemblyReference.cache
+D:\Курсове\Lectures\All presentations git\Trainings git\Intro\Arrays\Birds\obj\Debug\net5.0\Birds.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курсове\Lectures\All presentations git\Trainings git\Intro\Arrays\Birds\obj\Debug\net5.0\Birds.AssemblyInfoInputs.cache
+D:\Курсове\Lectures\All presentations git\Trainings git\Intro\Arrays\Birds\obj\Debug\net5.0\Birds.AssemblyInfo.cs
+D:\Курсове\Lectures\All presentations git\Trainings git\Intro\Arrays\Birds\obj\Debug\net5.0\Birds.csproj.CoreCompileInputs.cache
+D:\Курсове\Lectures\All presentations git\Trainings git\Intro\Arrays\Birds\obj\Debug\net5.0\Birds.dll
+D:\Курсове\Lectures\All presentations git\Trainings git\Intro\Arrays\Birds\obj\Debug\net5.0\refint\Birds.dll
+D:\Курсове\Lectures\All presentations git\Trainings git\Intro\Arrays\Birds\obj\Debug\net5.0\Birds.pdb
+D:\Курсове\Lectures\All presentations git\Trainings git\Intro\Arrays\Birds\obj\Debug\net5.0\Birds.genruntimeconfig.cache
+D:\Курсове\Lectures\All presentations git\Trainings git\Intro\Arrays\Birds\obj\Debug\net5.0\ref\Birds.dll
+C:\Users\Ivan\Documents\ВТУ\IntroductionIntoProgrammingMaterials\Intro\Arrays\Birds\bin\Debug\net5.0\Birds.exe
+C:\Users\Ivan\Documents\ВТУ\IntroductionIntoProgrammingMaterials\Intro\Arrays\Birds\bin\Debug\net5.0\Birds.deps.json
+C:\Users\Ivan\Documents\ВТУ\IntroductionIntoProgrammingMaterials\Intro\Arrays\Birds\bin\Debug\net5.0\Birds.runtimeconfig.json
+C:\Users\Ivan\Documents\ВТУ\IntroductionIntoProgrammingMaterials\Intro\Arrays\Birds\bin\Debug\net5.0\Birds.runtimeconfig.dev.json
+C:\Users\Ivan\Documents\ВТУ\IntroductionIntoProgrammingMaterials\Intro\Arrays\Birds\bin\Debug\net5.0\Birds.dll
+C:\Users\Ivan\Documents\ВТУ\IntroductionIntoProgrammingMaterials\Intro\Arrays\Birds\bin\Debug\net5.0\ref\Birds.dll
+C:\Users\Ivan\Documents\ВТУ\IntroductionIntoProgrammingMaterials\Intro\Arrays\Birds\bin\Debug\net5.0\Birds.pdb
+C:\Users\Ivan\Documents\ВТУ\IntroductionIntoProgrammingMaterials\Intro\Arrays\Birds\obj\Debug\net5.0\Birds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\Documents\ВТУ\IntroductionIntoProgrammingMaterials\Intro\Arrays\Birds\obj\Debug\net5.0\Birds.AssemblyInfoInputs.cache
+C:\Users\Ivan\Documents\ВТУ\IntroductionIntoProgrammingMaterials\Intro\Arrays\Birds\obj\Debug\net5.0\Birds.AssemblyInfo.cs
+C:\Users\Ivan\Documents\ВТУ\IntroductionIntoProgrammingMaterials\Intro\Arrays\Birds\obj\Debug\net5.0\Birds.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Documents\ВТУ\IntroductionIntoProgrammingMaterials\Intro\Arrays\Birds\obj\Debug\net5.0\Birds.dll
+C:\Users\Ivan\Documents\ВТУ\IntroductionIntoProgrammingMaterials\Intro\Arrays\Birds\obj\Debug\net5.0\ref\Birds.dll
+C:\Users\Ivan\Documents\ВТУ\IntroductionIntoProgrammingMaterials\Intro\Arrays\Birds\obj\Debug\net5.0\Birds.pdb
+C:\Users\Ivan\Documents\ВТУ\IntroductionIntoProgrammingMaterials\Intro\Arrays\Birds\obj\Debug\net5.0\Birds.genruntimeconfig.cache
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Arrays\Birds\bin\Debug\net5.0\Birds.exe
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Arrays\Birds\bin\Debug\net5.0\Birds.deps.json
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Arrays\Birds\bin\Debug\net5.0\Birds.runtimeconfig.json
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Arrays\Birds\bin\Debug\net5.0\Birds.runtimeconfig.dev.json
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Arrays\Birds\bin\Debug\net5.0\Birds.dll
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Arrays\Birds\bin\Debug\net5.0\Birds.pdb
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Arrays\Birds\obj\Debug\net5.0\Birds.csproj.AssemblyReference.cache
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Arrays\Birds\obj\Debug\net5.0\Birds.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Arrays\Birds\obj\Debug\net5.0\Birds.AssemblyInfoInputs.cache
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Arrays\Birds\obj\Debug\net5.0\Birds.AssemblyInfo.cs
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Arrays\Birds\obj\Debug\net5.0\Birds.csproj.CoreCompileInputs.cache
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Arrays\Birds\obj\Debug\net5.0\Birds.dll
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Arrays\Birds\obj\Debug\net5.0\refint\Birds.dll
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Arrays\Birds\obj\Debug\net5.0\Birds.pdb
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Arrays\Birds\obj\Debug\net5.0\Birds.genruntimeconfig.cache
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Arrays\Birds\obj\Debug\net5.0\ref\Birds.dll
