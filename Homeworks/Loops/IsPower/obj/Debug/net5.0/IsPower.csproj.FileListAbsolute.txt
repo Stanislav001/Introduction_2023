@@ -1,0 +1,16 @@
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Loops\IsPower\bin\Debug\net5.0\IsPower.exe
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Loops\IsPower\bin\Debug\net5.0\IsPower.deps.json
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Loops\IsPower\bin\Debug\net5.0\IsPower.runtimeconfig.json
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Loops\IsPower\bin\Debug\net5.0\IsPower.runtimeconfig.dev.json
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Loops\IsPower\bin\Debug\net5.0\IsPower.dll
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Loops\IsPower\bin\Debug\net5.0\IsPower.pdb
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Loops\IsPower\obj\Debug\net5.0\IsPower.csproj.AssemblyReference.cache
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Loops\IsPower\obj\Debug\net5.0\IsPower.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Loops\IsPower\obj\Debug\net5.0\IsPower.AssemblyInfoInputs.cache
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Loops\IsPower\obj\Debug\net5.0\IsPower.AssemblyInfo.cs
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Loops\IsPower\obj\Debug\net5.0\IsPower.csproj.CoreCompileInputs.cache
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Loops\IsPower\obj\Debug\net5.0\IsPower.dll
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Loops\IsPower\obj\Debug\net5.0\refint\IsPower.dll
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Loops\IsPower\obj\Debug\net5.0\IsPower.pdb
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Loops\IsPower\obj\Debug\net5.0\IsPower.genruntimeconfig.cache
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Loops\IsPower\obj\Debug\net5.0\ref\IsPower.dll

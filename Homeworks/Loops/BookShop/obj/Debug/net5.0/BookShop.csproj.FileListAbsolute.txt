@@ -1,0 +1,79 @@
+D:\Курсове\Lectures\All presentations git\Trainings git\BookShop\bin\Debug\net5.0\BookShop.exe
+D:\Курсове\Lectures\All presentations git\Trainings git\BookShop\bin\Debug\net5.0\BookShop.deps.json
+D:\Курсове\Lectures\All presentations git\Trainings git\BookShop\bin\Debug\net5.0\BookShop.runtimeconfig.json
+D:\Курсове\Lectures\All presentations git\Trainings git\BookShop\bin\Debug\net5.0\BookShop.runtimeconfig.dev.json
+D:\Курсове\Lectures\All presentations git\Trainings git\BookShop\bin\Debug\net5.0\BookShop.dll
+D:\Курсове\Lectures\All presentations git\Trainings git\BookShop\bin\Debug\net5.0\BookShop.pdb
+D:\Курсове\Lectures\All presentations git\Trainings git\BookShop\obj\Debug\net5.0\BookShop.csproj.AssemblyReference.cache
+D:\Курсове\Lectures\All presentations git\Trainings git\BookShop\obj\Debug\net5.0\BookShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курсове\Lectures\All presentations git\Trainings git\BookShop\obj\Debug\net5.0\BookShop.AssemblyInfoInputs.cache
+D:\Курсове\Lectures\All presentations git\Trainings git\BookShop\obj\Debug\net5.0\BookShop.AssemblyInfo.cs
+D:\Курсове\Lectures\All presentations git\Trainings git\BookShop\obj\Debug\net5.0\BookShop.csproj.CoreCompileInputs.cache
+D:\Курсове\Lectures\All presentations git\Trainings git\BookShop\obj\Debug\net5.0\BookShop.dll
+D:\Курсове\Lectures\All presentations git\Trainings git\BookShop\obj\Debug\net5.0\refint\BookShop.dll
+D:\Курсове\Lectures\All presentations git\Trainings git\BookShop\obj\Debug\net5.0\BookShop.pdb
+D:\Курсове\Lectures\All presentations git\Trainings git\BookShop\obj\Debug\net5.0\BookShop.genruntimeconfig.cache
+D:\Курсове\Lectures\All presentations git\Trainings git\BookShop\obj\Debug\net5.0\ref\BookShop.dll
+D:\Курсове\Lectures\All presentations git\Trainings git\Intro\DataTypes\loops\BookShop\bin\Debug\net5.0\BookShop.exe
+D:\Курсове\Lectures\All presentations git\Trainings git\Intro\DataTypes\loops\BookShop\bin\Debug\net5.0\BookShop.deps.json
+D:\Курсове\Lectures\All presentations git\Trainings git\Intro\DataTypes\loops\BookShop\bin\Debug\net5.0\BookShop.runtimeconfig.json
+D:\Курсове\Lectures\All presentations git\Trainings git\Intro\DataTypes\loops\BookShop\bin\Debug\net5.0\BookShop.runtimeconfig.dev.json
+D:\Курсове\Lectures\All presentations git\Trainings git\Intro\DataTypes\loops\BookShop\bin\Debug\net5.0\BookShop.dll
+D:\Курсове\Lectures\All presentations git\Trainings git\Intro\DataTypes\loops\BookShop\bin\Debug\net5.0\BookShop.pdb
+D:\Курсове\Lectures\All presentations git\Trainings git\Intro\DataTypes\loops\BookShop\obj\Debug\net5.0\BookShop.csproj.AssemblyReference.cache
+D:\Курсове\Lectures\All presentations git\Trainings git\Intro\DataTypes\loops\BookShop\obj\Debug\net5.0\BookShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курсове\Lectures\All presentations git\Trainings git\Intro\DataTypes\loops\BookShop\obj\Debug\net5.0\BookShop.AssemblyInfoInputs.cache
+D:\Курсове\Lectures\All presentations git\Trainings git\Intro\DataTypes\loops\BookShop\obj\Debug\net5.0\BookShop.AssemblyInfo.cs
+D:\Курсове\Lectures\All presentations git\Trainings git\Intro\DataTypes\loops\BookShop\obj\Debug\net5.0\BookShop.csproj.CoreCompileInputs.cache
+D:\Курсове\Lectures\All presentations git\Trainings git\Intro\DataTypes\loops\BookShop\obj\Debug\net5.0\BookShop.dll
+D:\Курсове\Lectures\All presentations git\Trainings git\Intro\DataTypes\loops\BookShop\obj\Debug\net5.0\refint\BookShop.dll
+D:\Курсове\Lectures\All presentations git\Trainings git\Intro\DataTypes\loops\BookShop\obj\Debug\net5.0\BookShop.pdb
+D:\Курсове\Lectures\All presentations git\Trainings git\Intro\DataTypes\loops\BookShop\obj\Debug\net5.0\BookShop.genruntimeconfig.cache
+D:\Курсове\Lectures\All presentations git\Trainings git\Intro\DataTypes\loops\BookShop\obj\Debug\net5.0\ref\BookShop.dll
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\DataTypes\loops\BookShop\bin\Debug\net5.0\BookShop.exe
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\DataTypes\loops\BookShop\bin\Debug\net5.0\BookShop.deps.json
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\DataTypes\loops\BookShop\bin\Debug\net5.0\BookShop.runtimeconfig.json
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\DataTypes\loops\BookShop\bin\Debug\net5.0\BookShop.runtimeconfig.dev.json
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\DataTypes\loops\BookShop\bin\Debug\net5.0\BookShop.dll
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\DataTypes\loops\BookShop\bin\Debug\net5.0\BookShop.pdb
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\DataTypes\loops\BookShop\obj\Debug\net5.0\BookShop.csproj.AssemblyReference.cache
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\DataTypes\loops\BookShop\obj\Debug\net5.0\BookShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\DataTypes\loops\BookShop\obj\Debug\net5.0\BookShop.AssemblyInfoInputs.cache
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\DataTypes\loops\BookShop\obj\Debug\net5.0\BookShop.AssemblyInfo.cs
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\DataTypes\loops\BookShop\obj\Debug\net5.0\BookShop.csproj.CoreCompileInputs.cache
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\DataTypes\loops\BookShop\obj\Debug\net5.0\BookShop.dll
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\DataTypes\loops\BookShop\obj\Debug\net5.0\refint\BookShop.dll
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\DataTypes\loops\BookShop\obj\Debug\net5.0\BookShop.pdb
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\DataTypes\loops\BookShop\obj\Debug\net5.0\BookShop.genruntimeconfig.cache
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\DataTypes\loops\BookShop\obj\Debug\net5.0\ref\BookShop.dll
+C:\Users\Ivan\Documents\ВТУ\IntroductionIntoProgrammingMaterials\Intro\Loops\BookShop\bin\Debug\net5.0\BookShop.exe
+C:\Users\Ivan\Documents\ВТУ\IntroductionIntoProgrammingMaterials\Intro\Loops\BookShop\bin\Debug\net5.0\BookShop.deps.json
+C:\Users\Ivan\Documents\ВТУ\IntroductionIntoProgrammingMaterials\Intro\Loops\BookShop\bin\Debug\net5.0\BookShop.runtimeconfig.json
+C:\Users\Ivan\Documents\ВТУ\IntroductionIntoProgrammingMaterials\Intro\Loops\BookShop\bin\Debug\net5.0\BookShop.runtimeconfig.dev.json
+C:\Users\Ivan\Documents\ВТУ\IntroductionIntoProgrammingMaterials\Intro\Loops\BookShop\bin\Debug\net5.0\BookShop.dll
+C:\Users\Ivan\Documents\ВТУ\IntroductionIntoProgrammingMaterials\Intro\Loops\BookShop\bin\Debug\net5.0\ref\BookShop.dll
+C:\Users\Ivan\Documents\ВТУ\IntroductionIntoProgrammingMaterials\Intro\Loops\BookShop\bin\Debug\net5.0\BookShop.pdb
+C:\Users\Ivan\Documents\ВТУ\IntroductionIntoProgrammingMaterials\Intro\Loops\BookShop\obj\Debug\net5.0\BookShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\Documents\ВТУ\IntroductionIntoProgrammingMaterials\Intro\Loops\BookShop\obj\Debug\net5.0\BookShop.AssemblyInfoInputs.cache
+C:\Users\Ivan\Documents\ВТУ\IntroductionIntoProgrammingMaterials\Intro\Loops\BookShop\obj\Debug\net5.0\BookShop.AssemblyInfo.cs
+C:\Users\Ivan\Documents\ВТУ\IntroductionIntoProgrammingMaterials\Intro\Loops\BookShop\obj\Debug\net5.0\BookShop.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Documents\ВТУ\IntroductionIntoProgrammingMaterials\Intro\Loops\BookShop\obj\Debug\net5.0\BookShop.dll
+C:\Users\Ivan\Documents\ВТУ\IntroductionIntoProgrammingMaterials\Intro\Loops\BookShop\obj\Debug\net5.0\ref\BookShop.dll
+C:\Users\Ivan\Documents\ВТУ\IntroductionIntoProgrammingMaterials\Intro\Loops\BookShop\obj\Debug\net5.0\BookShop.pdb
+C:\Users\Ivan\Documents\ВТУ\IntroductionIntoProgrammingMaterials\Intro\Loops\BookShop\obj\Debug\net5.0\BookShop.genruntimeconfig.cache
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Loops\BookShop\bin\Debug\net5.0\BookShop.exe
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Loops\BookShop\bin\Debug\net5.0\BookShop.deps.json
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Loops\BookShop\bin\Debug\net5.0\BookShop.runtimeconfig.json
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Loops\BookShop\bin\Debug\net5.0\BookShop.runtimeconfig.dev.json
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Loops\BookShop\bin\Debug\net5.0\BookShop.dll
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Loops\BookShop\bin\Debug\net5.0\BookShop.pdb
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Loops\BookShop\obj\Debug\net5.0\BookShop.csproj.AssemblyReference.cache
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Loops\BookShop\obj\Debug\net5.0\BookShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Loops\BookShop\obj\Debug\net5.0\BookShop.AssemblyInfoInputs.cache
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Loops\BookShop\obj\Debug\net5.0\BookShop.AssemblyInfo.cs
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Loops\BookShop\obj\Debug\net5.0\BookShop.csproj.CoreCompileInputs.cache
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Loops\BookShop\obj\Debug\net5.0\BookShop.dll
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Loops\BookShop\obj\Debug\net5.0\refint\BookShop.dll
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Loops\BookShop\obj\Debug\net5.0\BookShop.pdb
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Loops\BookShop\obj\Debug\net5.0\BookShop.genruntimeconfig.cache
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Loops\BookShop\obj\Debug\net5.0\ref\BookShop.dll

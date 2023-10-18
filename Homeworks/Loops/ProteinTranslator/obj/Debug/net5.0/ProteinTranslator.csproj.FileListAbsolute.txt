@@ -1,0 +1,63 @@
+D:\Курсове\Lectures\All presentations git\Trainings git\Intro\DataTypes\loops\ProteinTranslator\bin\Debug\net5.0\ProteinTranslator.exe
+D:\Курсове\Lectures\All presentations git\Trainings git\Intro\DataTypes\loops\ProteinTranslator\bin\Debug\net5.0\ProteinTranslator.deps.json
+D:\Курсове\Lectures\All presentations git\Trainings git\Intro\DataTypes\loops\ProteinTranslator\bin\Debug\net5.0\ProteinTranslator.runtimeconfig.json
+D:\Курсове\Lectures\All presentations git\Trainings git\Intro\DataTypes\loops\ProteinTranslator\bin\Debug\net5.0\ProteinTranslator.runtimeconfig.dev.json
+D:\Курсове\Lectures\All presentations git\Trainings git\Intro\DataTypes\loops\ProteinTranslator\bin\Debug\net5.0\ProteinTranslator.dll
+D:\Курсове\Lectures\All presentations git\Trainings git\Intro\DataTypes\loops\ProteinTranslator\bin\Debug\net5.0\ProteinTranslator.pdb
+D:\Курсове\Lectures\All presentations git\Trainings git\Intro\DataTypes\loops\ProteinTranslator\obj\Debug\net5.0\ProteinTranslator.csproj.AssemblyReference.cache
+D:\Курсове\Lectures\All presentations git\Trainings git\Intro\DataTypes\loops\ProteinTranslator\obj\Debug\net5.0\ProteinTranslator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курсове\Lectures\All presentations git\Trainings git\Intro\DataTypes\loops\ProteinTranslator\obj\Debug\net5.0\ProteinTranslator.AssemblyInfoInputs.cache
+D:\Курсове\Lectures\All presentations git\Trainings git\Intro\DataTypes\loops\ProteinTranslator\obj\Debug\net5.0\ProteinTranslator.AssemblyInfo.cs
+D:\Курсове\Lectures\All presentations git\Trainings git\Intro\DataTypes\loops\ProteinTranslator\obj\Debug\net5.0\ProteinTranslator.csproj.CoreCompileInputs.cache
+D:\Курсове\Lectures\All presentations git\Trainings git\Intro\DataTypes\loops\ProteinTranslator\obj\Debug\net5.0\ProteinTranslator.dll
+D:\Курсове\Lectures\All presentations git\Trainings git\Intro\DataTypes\loops\ProteinTranslator\obj\Debug\net5.0\refint\ProteinTranslator.dll
+D:\Курсове\Lectures\All presentations git\Trainings git\Intro\DataTypes\loops\ProteinTranslator\obj\Debug\net5.0\ProteinTranslator.pdb
+D:\Курсове\Lectures\All presentations git\Trainings git\Intro\DataTypes\loops\ProteinTranslator\obj\Debug\net5.0\ProteinTranslator.genruntimeconfig.cache
+D:\Курсове\Lectures\All presentations git\Trainings git\Intro\DataTypes\loops\ProteinTranslator\obj\Debug\net5.0\ref\ProteinTranslator.dll
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\DataTypes\loops\ProteinTranslator\bin\Debug\net5.0\ProteinTranslator.exe
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\DataTypes\loops\ProteinTranslator\bin\Debug\net5.0\ProteinTranslator.deps.json
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\DataTypes\loops\ProteinTranslator\bin\Debug\net5.0\ProteinTranslator.runtimeconfig.json
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\DataTypes\loops\ProteinTranslator\bin\Debug\net5.0\ProteinTranslator.runtimeconfig.dev.json
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\DataTypes\loops\ProteinTranslator\bin\Debug\net5.0\ProteinTranslator.dll
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\DataTypes\loops\ProteinTranslator\bin\Debug\net5.0\ProteinTranslator.pdb
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\DataTypes\loops\ProteinTranslator\obj\Debug\net5.0\ProteinTranslator.csproj.AssemblyReference.cache
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\DataTypes\loops\ProteinTranslator\obj\Debug\net5.0\ProteinTranslator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\DataTypes\loops\ProteinTranslator\obj\Debug\net5.0\ProteinTranslator.AssemblyInfoInputs.cache
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\DataTypes\loops\ProteinTranslator\obj\Debug\net5.0\ProteinTranslator.AssemblyInfo.cs
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\DataTypes\loops\ProteinTranslator\obj\Debug\net5.0\ProteinTranslator.csproj.CoreCompileInputs.cache
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\DataTypes\loops\ProteinTranslator\obj\Debug\net5.0\ProteinTranslator.dll
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\DataTypes\loops\ProteinTranslator\obj\Debug\net5.0\refint\ProteinTranslator.dll
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\DataTypes\loops\ProteinTranslator\obj\Debug\net5.0\ProteinTranslator.pdb
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\DataTypes\loops\ProteinTranslator\obj\Debug\net5.0\ProteinTranslator.genruntimeconfig.cache
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\DataTypes\loops\ProteinTranslator\obj\Debug\net5.0\ref\ProteinTranslator.dll
+C:\Users\Ivan\Documents\ВТУ\IntroductionIntoProgrammingMaterials\Intro\Loops\ProteinTranslator\bin\Debug\net5.0\ProteinTranslator.exe
+C:\Users\Ivan\Documents\ВТУ\IntroductionIntoProgrammingMaterials\Intro\Loops\ProteinTranslator\bin\Debug\net5.0\ProteinTranslator.deps.json
+C:\Users\Ivan\Documents\ВТУ\IntroductionIntoProgrammingMaterials\Intro\Loops\ProteinTranslator\bin\Debug\net5.0\ProteinTranslator.runtimeconfig.json
+C:\Users\Ivan\Documents\ВТУ\IntroductionIntoProgrammingMaterials\Intro\Loops\ProteinTranslator\bin\Debug\net5.0\ProteinTranslator.runtimeconfig.dev.json
+C:\Users\Ivan\Documents\ВТУ\IntroductionIntoProgrammingMaterials\Intro\Loops\ProteinTranslator\bin\Debug\net5.0\ProteinTranslator.dll
+C:\Users\Ivan\Documents\ВТУ\IntroductionIntoProgrammingMaterials\Intro\Loops\ProteinTranslator\bin\Debug\net5.0\ref\ProteinTranslator.dll
+C:\Users\Ivan\Documents\ВТУ\IntroductionIntoProgrammingMaterials\Intro\Loops\ProteinTranslator\bin\Debug\net5.0\ProteinTranslator.pdb
+C:\Users\Ivan\Documents\ВТУ\IntroductionIntoProgrammingMaterials\Intro\Loops\ProteinTranslator\obj\Debug\net5.0\ProteinTranslator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\Documents\ВТУ\IntroductionIntoProgrammingMaterials\Intro\Loops\ProteinTranslator\obj\Debug\net5.0\ProteinTranslator.AssemblyInfoInputs.cache
+C:\Users\Ivan\Documents\ВТУ\IntroductionIntoProgrammingMaterials\Intro\Loops\ProteinTranslator\obj\Debug\net5.0\ProteinTranslator.AssemblyInfo.cs
+C:\Users\Ivan\Documents\ВТУ\IntroductionIntoProgrammingMaterials\Intro\Loops\ProteinTranslator\obj\Debug\net5.0\ProteinTranslator.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Documents\ВТУ\IntroductionIntoProgrammingMaterials\Intro\Loops\ProteinTranslator\obj\Debug\net5.0\ProteinTranslator.dll
+C:\Users\Ivan\Documents\ВТУ\IntroductionIntoProgrammingMaterials\Intro\Loops\ProteinTranslator\obj\Debug\net5.0\ref\ProteinTranslator.dll
+C:\Users\Ivan\Documents\ВТУ\IntroductionIntoProgrammingMaterials\Intro\Loops\ProteinTranslator\obj\Debug\net5.0\ProteinTranslator.pdb
+C:\Users\Ivan\Documents\ВТУ\IntroductionIntoProgrammingMaterials\Intro\Loops\ProteinTranslator\obj\Debug\net5.0\ProteinTranslator.genruntimeconfig.cache
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Loops\ProteinTranslator\bin\Debug\net5.0\ProteinTranslator.exe
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Loops\ProteinTranslator\bin\Debug\net5.0\ProteinTranslator.deps.json
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Loops\ProteinTranslator\bin\Debug\net5.0\ProteinTranslator.runtimeconfig.json
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Loops\ProteinTranslator\bin\Debug\net5.0\ProteinTranslator.runtimeconfig.dev.json
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Loops\ProteinTranslator\bin\Debug\net5.0\ProteinTranslator.dll
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Loops\ProteinTranslator\bin\Debug\net5.0\ProteinTranslator.pdb
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Loops\ProteinTranslator\obj\Debug\net5.0\ProteinTranslator.csproj.AssemblyReference.cache
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Loops\ProteinTranslator\obj\Debug\net5.0\ProteinTranslator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Loops\ProteinTranslator\obj\Debug\net5.0\ProteinTranslator.AssemblyInfoInputs.cache
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Loops\ProteinTranslator\obj\Debug\net5.0\ProteinTranslator.AssemblyInfo.cs
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Loops\ProteinTranslator\obj\Debug\net5.0\ProteinTranslator.csproj.CoreCompileInputs.cache
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Loops\ProteinTranslator\obj\Debug\net5.0\ProteinTranslator.dll
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Loops\ProteinTranslator\obj\Debug\net5.0\refint\ProteinTranslator.dll
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Loops\ProteinTranslator\obj\Debug\net5.0\ProteinTranslator.pdb
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Loops\ProteinTranslator\obj\Debug\net5.0\ProteinTranslator.genruntimeconfig.cache
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Loops\ProteinTranslator\obj\Debug\net5.0\ref\ProteinTranslator.dll

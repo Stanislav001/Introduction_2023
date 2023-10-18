@@ -1,0 +1,16 @@
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Loops\Candles\bin\Debug\net5.0\Candles.exe
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Loops\Candles\bin\Debug\net5.0\Candles.deps.json
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Loops\Candles\bin\Debug\net5.0\Candles.runtimeconfig.json
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Loops\Candles\bin\Debug\net5.0\Candles.runtimeconfig.dev.json
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Loops\Candles\bin\Debug\net5.0\Candles.dll
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Loops\Candles\bin\Debug\net5.0\Candles.pdb
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Loops\Candles\obj\Debug\net5.0\Candles.csproj.AssemblyReference.cache
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Loops\Candles\obj\Debug\net5.0\Candles.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Loops\Candles\obj\Debug\net5.0\Candles.AssemblyInfoInputs.cache
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Loops\Candles\obj\Debug\net5.0\Candles.AssemblyInfo.cs
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Loops\Candles\obj\Debug\net5.0\Candles.csproj.CoreCompileInputs.cache
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Loops\Candles\obj\Debug\net5.0\Candles.dll
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Loops\Candles\obj\Debug\net5.0\refint\Candles.dll
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Loops\Candles\obj\Debug\net5.0\Candles.pdb
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Loops\Candles\obj\Debug\net5.0\Candles.genruntimeconfig.cache
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Loops\Candles\obj\Debug\net5.0\ref\Candles.dll
