@@ -4,7 +4,6 @@
     {
         static void Main(string[] args)
         {
-            Console.Write("Enter numbers ");
             string[] input = Console.ReadLine().Split(" ");
 
             for (int index = input.Length - 1; index >= 0; index--)

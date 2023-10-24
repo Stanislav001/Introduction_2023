@@ -1,0 +1,15 @@
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\SimpleGame\SimpleGame\bin\Debug\net6.0\SimpleGame.exe
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\SimpleGame\SimpleGame\bin\Debug\net6.0\SimpleGame.deps.json
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\SimpleGame\SimpleGame\bin\Debug\net6.0\SimpleGame.runtimeconfig.json
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\SimpleGame\SimpleGame\bin\Debug\net6.0\SimpleGame.dll
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\SimpleGame\SimpleGame\bin\Debug\net6.0\SimpleGame.pdb
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\SimpleGame\SimpleGame\obj\Debug\net6.0\SimpleGame.csproj.AssemblyReference.cache
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\SimpleGame\SimpleGame\obj\Debug\net6.0\SimpleGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\SimpleGame\SimpleGame\obj\Debug\net6.0\SimpleGame.AssemblyInfoInputs.cache
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\SimpleGame\SimpleGame\obj\Debug\net6.0\SimpleGame.AssemblyInfo.cs
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\SimpleGame\SimpleGame\obj\Debug\net6.0\SimpleGame.csproj.CoreCompileInputs.cache
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\SimpleGame\SimpleGame\obj\Debug\net6.0\SimpleGame.dll
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\SimpleGame\SimpleGame\obj\Debug\net6.0\refint\SimpleGame.dll
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\SimpleGame\SimpleGame\obj\Debug\net6.0\SimpleGame.pdb
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\SimpleGame\SimpleGame\obj\Debug\net6.0\SimpleGame.genruntimeconfig.cache
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\SimpleGame\SimpleGame\obj\Debug\net6.0\ref\SimpleGame.dll

@@ -1,0 +1,15 @@
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\05_Methods\P01_Calculator\bin\Debug\net6.0\P01_Calculator.exe
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\05_Methods\P01_Calculator\bin\Debug\net6.0\P01_Calculator.deps.json
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\05_Methods\P01_Calculator\bin\Debug\net6.0\P01_Calculator.runtimeconfig.json
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\05_Methods\P01_Calculator\bin\Debug\net6.0\P01_Calculator.dll
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\05_Methods\P01_Calculator\bin\Debug\net6.0\P01_Calculator.pdb
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\05_Methods\P01_Calculator\obj\Debug\net6.0\P01_Calculator.csproj.AssemblyReference.cache
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\05_Methods\P01_Calculator\obj\Debug\net6.0\P01_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\05_Methods\P01_Calculator\obj\Debug\net6.0\P01_Calculator.AssemblyInfoInputs.cache
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\05_Methods\P01_Calculator\obj\Debug\net6.0\P01_Calculator.AssemblyInfo.cs
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\05_Methods\P01_Calculator\obj\Debug\net6.0\P01_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\05_Methods\P01_Calculator\obj\Debug\net6.0\P01_Calculator.dll
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\05_Methods\P01_Calculator\obj\Debug\net6.0\refint\P01_Calculator.dll
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\05_Methods\P01_Calculator\obj\Debug\net6.0\P01_Calculator.pdb
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\05_Methods\P01_Calculator\obj\Debug\net6.0\P01_Calculator.genruntimeconfig.cache
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\05_Methods\P01_Calculator\obj\Debug\net6.0\ref\P01_Calculator.dll

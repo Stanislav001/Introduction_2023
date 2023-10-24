@@ -1,0 +1,15 @@
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\05_Methods\P02_StringExercises\bin\Debug\net6.0\P02_StringExercises.exe
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\05_Methods\P02_StringExercises\bin\Debug\net6.0\P02_StringExercises.deps.json
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\05_Methods\P02_StringExercises\bin\Debug\net6.0\P02_StringExercises.runtimeconfig.json
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\05_Methods\P02_StringExercises\bin\Debug\net6.0\P02_StringExercises.dll
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\05_Methods\P02_StringExercises\bin\Debug\net6.0\P02_StringExercises.pdb
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\05_Methods\P02_StringExercises\obj\Debug\net6.0\P02_StringExercises.csproj.AssemblyReference.cache
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\05_Methods\P02_StringExercises\obj\Debug\net6.0\P02_StringExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\05_Methods\P02_StringExercises\obj\Debug\net6.0\P02_StringExercises.AssemblyInfoInputs.cache
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\05_Methods\P02_StringExercises\obj\Debug\net6.0\P02_StringExercises.AssemblyInfo.cs
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\05_Methods\P02_StringExercises\obj\Debug\net6.0\P02_StringExercises.csproj.CoreCompileInputs.cache
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\05_Methods\P02_StringExercises\obj\Debug\net6.0\P02_StringExercises.dll
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\05_Methods\P02_StringExercises\obj\Debug\net6.0\refint\P02_StringExercises.dll
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\05_Methods\P02_StringExercises\obj\Debug\net6.0\P02_StringExercises.pdb
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\05_Methods\P02_StringExercises\obj\Debug\net6.0\P02_StringExercises.genruntimeconfig.cache
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\05_Methods\P02_StringExercises\obj\Debug\net6.0\ref\P02_StringExercises.dll
