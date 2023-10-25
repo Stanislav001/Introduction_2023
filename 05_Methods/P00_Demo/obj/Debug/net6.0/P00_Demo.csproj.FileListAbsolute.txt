@@ -1,0 +1,15 @@
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\05_Methods\P00_Demo\bin\Debug\net6.0\P00_Demo.exe
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\05_Methods\P00_Demo\bin\Debug\net6.0\P00_Demo.deps.json
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\05_Methods\P00_Demo\bin\Debug\net6.0\P00_Demo.runtimeconfig.json
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\05_Methods\P00_Demo\bin\Debug\net6.0\P00_Demo.dll
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\05_Methods\P00_Demo\bin\Debug\net6.0\P00_Demo.pdb
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\05_Methods\P00_Demo\obj\Debug\net6.0\P00_Demo.csproj.AssemblyReference.cache
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\05_Methods\P00_Demo\obj\Debug\net6.0\P00_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\05_Methods\P00_Demo\obj\Debug\net6.0\P00_Demo.AssemblyInfoInputs.cache
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\05_Methods\P00_Demo\obj\Debug\net6.0\P00_Demo.AssemblyInfo.cs
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\05_Methods\P00_Demo\obj\Debug\net6.0\P00_Demo.csproj.CoreCompileInputs.cache
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\05_Methods\P00_Demo\obj\Debug\net6.0\P00_Demo.dll
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\05_Methods\P00_Demo\obj\Debug\net6.0\refint\P00_Demo.dll
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\05_Methods\P00_Demo\obj\Debug\net6.0\P00_Demo.pdb
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\05_Methods\P00_Demo\obj\Debug\net6.0\P00_Demo.genruntimeconfig.cache
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\05_Methods\P00_Demo\obj\Debug\net6.0\ref\P00_Demo.dll
