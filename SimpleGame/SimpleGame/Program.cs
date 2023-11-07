@@ -19,16 +19,12 @@
             {
                 if (command == "buy")
                 {
-                    Buy(heroMoney, countHeroItems);
+                    Buy(ref heroMoney,ref countHeroItems);
                 }
 
                 if (command == "deposit")
                 {
-                    int deposedMoney = ReadIntNumberFromConsole("Enter a deposit sum: ");
-
-                    heroMoney += deposedMoney;
-
-                    Console.WriteLine("Now you have " + heroMoney + " $");
+                    Deposit(ref heroMoney);
                 }
 
                 if (command == "attack")
@@ -62,7 +58,7 @@
             return input;
         }
 
-        private static void Buy(int money, int itemsCount)
+        private static void Buy(ref int money,ref int itemsCount)
         {
             int itemPrice = ReadIntNumberFromConsole("Enter a item price: ");
 
@@ -70,6 +66,15 @@
             itemsCount += 1;
 
             Console.WriteLine("You have " + itemsCount + " items and " + money + " $");
+        }
+
+        private static void Deposit(ref int money)
+        {
+            int deposedMoney = ReadIntNumberFromConsole("Enter a deposit sum: ");
+
+            money += deposedMoney;
+
+            Console.WriteLine("Now you have " + money + " $");
         }
     }
 }
