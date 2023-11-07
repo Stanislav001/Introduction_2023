@@ -1,0 +1,16 @@
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\AppleBoxes\bin\Debug\net5.0\AppleBoxes.exe
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\AppleBoxes\bin\Debug\net5.0\AppleBoxes.deps.json
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\AppleBoxes\bin\Debug\net5.0\AppleBoxes.runtimeconfig.json
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\AppleBoxes\bin\Debug\net5.0\AppleBoxes.runtimeconfig.dev.json
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\AppleBoxes\bin\Debug\net5.0\AppleBoxes.dll
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\AppleBoxes\bin\Debug\net5.0\AppleBoxes.pdb
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\AppleBoxes\obj\Debug\net5.0\AppleBoxes.csproj.AssemblyReference.cache
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\AppleBoxes\obj\Debug\net5.0\AppleBoxes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\AppleBoxes\obj\Debug\net5.0\AppleBoxes.AssemblyInfoInputs.cache
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\AppleBoxes\obj\Debug\net5.0\AppleBoxes.AssemblyInfo.cs
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\AppleBoxes\obj\Debug\net5.0\AppleBoxes.csproj.CoreCompileInputs.cache
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\AppleBoxes\obj\Debug\net5.0\AppleBoxes.dll
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\AppleBoxes\obj\Debug\net5.0\refint\AppleBoxes.dll
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\AppleBoxes\obj\Debug\net5.0\AppleBoxes.pdb
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\AppleBoxes\obj\Debug\net5.0\AppleBoxes.genruntimeconfig.cache
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\AppleBoxes\obj\Debug\net5.0\ref\AppleBoxes.dll

@@ -6,26 +6,52 @@ namespace P00_Demo
     {
         static void Main()
         {
-            const int ARRAY_LENGTH = 10;
-            const int MIN_NUMBER = 1;
-            const int MAX_NUMBER = 100;
-           
-            int[] array = GenerateRandomArray(ARRAY_LENGTH, MIN_NUMBER, MAX_NUMBER);
+              const int ARRAY_LENGTH = 10;
+              const int MIN_NUMBER = 1;
+              const int MAX_NUMBER = 100;
 
-            PrintArray(array);
+              int[] array = GenerateRandomArray(ARRAY_LENGTH, MIN_NUMBER, MAX_NUMBER);
 
-            int minNumber = GetMinNumberFromArray(array);
-            int maxNumber = GetMaxNumberFromArray(array);
-            double average = CalculateAverage(array);
+              PrintArray(array);
 
-            Console.WriteLine($"The min number is: {minNumber}");
-            Console.WriteLine($"The max number is: {maxNumber}");
+              int minNumber = GetMinNumberFromArray(array);
+              int maxNumber = GetMaxNumberFromArray(array);
+              double average = CalculateAverage(array);
 
-            Console.WriteLine($"Average = {average}");
+              Console.WriteLine($"The min number is: {minNumber}");
+              Console.WriteLine($"The max number is: {maxNumber}");
 
-            SearchForValue(array, 5);
+              Console.WriteLine($"Average = {average}");
+
+              SearchForValue(array, 5);
+
+              int[] firstArray = GenerateRandomArray(ARRAY_LENGTH, MIN_NUMBER, MAX_NUMBER);
+              int[] secondArray = GenerateRandomArray(ARRAY_LENGTH, MIN_NUMBER, MAX_NUMBER);
+
+              // int[] firstArray = { 10, 20, 5, 4, 5, 6 };
+              // int[] secondArray = { 10, 20, 5, 4, 5, 6 };
+              PrintArray(firstArray);
+              Console.WriteLine("====");
+              PrintArray(secondArray);
+
+              bool isEqual = false;
+              
+              for (int i = 0; i < firstArray.Length; i++) { 
+                 if (firstArray[i] == secondArray[i])
+                 {
+                    isEqual = true;
+                    break;
+                 } 
+              }
+
+              if (isEqual)
+              {
+                Console.WriteLine("They are equals");
+              } else
+              {
+                Console.WriteLine("Not equals");
+              }
         }
-
         private static int[] GenerateRandomArray(int length, int minValue, int maxValue)
         {
             Random random = new Random();
@@ -45,7 +71,6 @@ namespace P00_Demo
                 Console.WriteLine(element);
             }
         }
-
         private static int GetMinNumberFromArray(int[] array)
         {
             int min = array[0]; 
@@ -59,7 +84,6 @@ namespace P00_Demo
             }
             return min;
         }
-
         private static int GetMaxNumberFromArray(int[] array)
         {
             int max = array[0]; 
@@ -73,7 +97,6 @@ namespace P00_Demo
             }
             return max;
         }
-
         private static double CalculateAverage(int[] array)
         {
             int sum = 0;
@@ -83,7 +106,6 @@ namespace P00_Demo
             }
             return (double)sum / array.Length;
         }
-
         private static void SearchForValue(int[] array, int value)
         {
             for (int i = 0; i < array.Length; i++)

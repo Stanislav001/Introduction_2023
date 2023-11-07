@@ -1,0 +1,16 @@
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\CreateArray\bin\Debug\net5.0\CreateArray.exe
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\CreateArray\bin\Debug\net5.0\CreateArray.deps.json
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\CreateArray\bin\Debug\net5.0\CreateArray.runtimeconfig.json
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\CreateArray\bin\Debug\net5.0\CreateArray.runtimeconfig.dev.json
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\CreateArray\bin\Debug\net5.0\CreateArray.dll
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\CreateArray\bin\Debug\net5.0\CreateArray.pdb
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\CreateArray\obj\Debug\net5.0\CreateArray.csproj.AssemblyReference.cache
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\CreateArray\obj\Debug\net5.0\CreateArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\CreateArray\obj\Debug\net5.0\CreateArray.AssemblyInfoInputs.cache
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\CreateArray\obj\Debug\net5.0\CreateArray.AssemblyInfo.cs
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\CreateArray\obj\Debug\net5.0\CreateArray.csproj.CoreCompileInputs.cache
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\CreateArray\obj\Debug\net5.0\CreateArray.dll
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\CreateArray\obj\Debug\net5.0\refint\CreateArray.dll
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\CreateArray\obj\Debug\net5.0\CreateArray.pdb
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\CreateArray\obj\Debug\net5.0\CreateArray.genruntimeconfig.cache
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\CreateArray\obj\Debug\net5.0\ref\CreateArray.dll

@@ -1,0 +1,16 @@
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\CountSum\bin\Debug\net5.0\CountSum.exe
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\CountSum\bin\Debug\net5.0\CountSum.deps.json
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\CountSum\bin\Debug\net5.0\CountSum.runtimeconfig.json
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\CountSum\bin\Debug\net5.0\CountSum.runtimeconfig.dev.json
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\CountSum\bin\Debug\net5.0\CountSum.dll
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\CountSum\bin\Debug\net5.0\CountSum.pdb
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\CountSum\obj\Debug\net5.0\CountSum.csproj.AssemblyReference.cache
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\CountSum\obj\Debug\net5.0\CountSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\CountSum\obj\Debug\net5.0\CountSum.AssemblyInfoInputs.cache
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\CountSum\obj\Debug\net5.0\CountSum.AssemblyInfo.cs
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\CountSum\obj\Debug\net5.0\CountSum.csproj.CoreCompileInputs.cache
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\CountSum\obj\Debug\net5.0\CountSum.dll
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\CountSum\obj\Debug\net5.0\refint\CountSum.dll
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\CountSum\obj\Debug\net5.0\CountSum.pdb
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\CountSum\obj\Debug\net5.0\CountSum.genruntimeconfig.cache
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\CountSum\obj\Debug\net5.0\ref\CountSum.dll

@@ -1,0 +1,16 @@
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\MagicalWell\bin\Debug\net5.0\MagicalWell.exe
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\MagicalWell\bin\Debug\net5.0\MagicalWell.deps.json
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\MagicalWell\bin\Debug\net5.0\MagicalWell.runtimeconfig.json
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\MagicalWell\bin\Debug\net5.0\MagicalWell.runtimeconfig.dev.json
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\MagicalWell\bin\Debug\net5.0\MagicalWell.dll
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\MagicalWell\bin\Debug\net5.0\MagicalWell.pdb
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\MagicalWell\obj\Debug\net5.0\MagicalWell.csproj.AssemblyReference.cache
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\MagicalWell\obj\Debug\net5.0\MagicalWell.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\MagicalWell\obj\Debug\net5.0\MagicalWell.AssemblyInfoInputs.cache
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\MagicalWell\obj\Debug\net5.0\MagicalWell.AssemblyInfo.cs
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\MagicalWell\obj\Debug\net5.0\MagicalWell.csproj.CoreCompileInputs.cache
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\MagicalWell\obj\Debug\net5.0\MagicalWell.dll
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\MagicalWell\obj\Debug\net5.0\refint\MagicalWell.dll
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\MagicalWell\obj\Debug\net5.0\MagicalWell.pdb
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\MagicalWell\obj\Debug\net5.0\MagicalWell.genruntimeconfig.cache
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\MagicalWell\obj\Debug\net5.0\ref\MagicalWell.dll

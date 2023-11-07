@@ -1,0 +1,47 @@
+D:\Курсове\Lectures\All presentations git\Trainings git\Intro\Methods\Distance\bin\Debug\net5.0\Distance.exe
+D:\Курсове\Lectures\All presentations git\Trainings git\Intro\Methods\Distance\bin\Debug\net5.0\Distance.deps.json
+D:\Курсове\Lectures\All presentations git\Trainings git\Intro\Methods\Distance\bin\Debug\net5.0\Distance.runtimeconfig.json
+D:\Курсове\Lectures\All presentations git\Trainings git\Intro\Methods\Distance\bin\Debug\net5.0\Distance.runtimeconfig.dev.json
+D:\Курсове\Lectures\All presentations git\Trainings git\Intro\Methods\Distance\bin\Debug\net5.0\Distance.dll
+D:\Курсове\Lectures\All presentations git\Trainings git\Intro\Methods\Distance\bin\Debug\net5.0\Distance.pdb
+D:\Курсове\Lectures\All presentations git\Trainings git\Intro\Methods\Distance\obj\Debug\net5.0\Distance.csproj.AssemblyReference.cache
+D:\Курсове\Lectures\All presentations git\Trainings git\Intro\Methods\Distance\obj\Debug\net5.0\Distance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курсове\Lectures\All presentations git\Trainings git\Intro\Methods\Distance\obj\Debug\net5.0\Distance.AssemblyInfoInputs.cache
+D:\Курсове\Lectures\All presentations git\Trainings git\Intro\Methods\Distance\obj\Debug\net5.0\Distance.AssemblyInfo.cs
+D:\Курсове\Lectures\All presentations git\Trainings git\Intro\Methods\Distance\obj\Debug\net5.0\Distance.csproj.CoreCompileInputs.cache
+D:\Курсове\Lectures\All presentations git\Trainings git\Intro\Methods\Distance\obj\Debug\net5.0\Distance.dll
+D:\Курсове\Lectures\All presentations git\Trainings git\Intro\Methods\Distance\obj\Debug\net5.0\refint\Distance.dll
+D:\Курсове\Lectures\All presentations git\Trainings git\Intro\Methods\Distance\obj\Debug\net5.0\Distance.pdb
+D:\Курсове\Lectures\All presentations git\Trainings git\Intro\Methods\Distance\obj\Debug\net5.0\Distance.genruntimeconfig.cache
+D:\Курсове\Lectures\All presentations git\Trainings git\Intro\Methods\Distance\obj\Debug\net5.0\ref\Distance.dll
+C:\Users\Ivan\Documents\ВТУ\IntroductionIntoProgrammingMaterials\Intro\Methods\Distance\bin\Debug\net5.0\Distance.exe
+C:\Users\Ivan\Documents\ВТУ\IntroductionIntoProgrammingMaterials\Intro\Methods\Distance\bin\Debug\net5.0\Distance.deps.json
+C:\Users\Ivan\Documents\ВТУ\IntroductionIntoProgrammingMaterials\Intro\Methods\Distance\bin\Debug\net5.0\Distance.runtimeconfig.json
+C:\Users\Ivan\Documents\ВТУ\IntroductionIntoProgrammingMaterials\Intro\Methods\Distance\bin\Debug\net5.0\Distance.runtimeconfig.dev.json
+C:\Users\Ivan\Documents\ВТУ\IntroductionIntoProgrammingMaterials\Intro\Methods\Distance\bin\Debug\net5.0\Distance.dll
+C:\Users\Ivan\Documents\ВТУ\IntroductionIntoProgrammingMaterials\Intro\Methods\Distance\bin\Debug\net5.0\ref\Distance.dll
+C:\Users\Ivan\Documents\ВТУ\IntroductionIntoProgrammingMaterials\Intro\Methods\Distance\bin\Debug\net5.0\Distance.pdb
+C:\Users\Ivan\Documents\ВТУ\IntroductionIntoProgrammingMaterials\Intro\Methods\Distance\obj\Debug\net5.0\Distance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\Documents\ВТУ\IntroductionIntoProgrammingMaterials\Intro\Methods\Distance\obj\Debug\net5.0\Distance.AssemblyInfoInputs.cache
+C:\Users\Ivan\Documents\ВТУ\IntroductionIntoProgrammingMaterials\Intro\Methods\Distance\obj\Debug\net5.0\Distance.AssemblyInfo.cs
+C:\Users\Ivan\Documents\ВТУ\IntroductionIntoProgrammingMaterials\Intro\Methods\Distance\obj\Debug\net5.0\Distance.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Documents\ВТУ\IntroductionIntoProgrammingMaterials\Intro\Methods\Distance\obj\Debug\net5.0\Distance.dll
+C:\Users\Ivan\Documents\ВТУ\IntroductionIntoProgrammingMaterials\Intro\Methods\Distance\obj\Debug\net5.0\ref\Distance.dll
+C:\Users\Ivan\Documents\ВТУ\IntroductionIntoProgrammingMaterials\Intro\Methods\Distance\obj\Debug\net5.0\Distance.pdb
+C:\Users\Ivan\Documents\ВТУ\IntroductionIntoProgrammingMaterials\Intro\Methods\Distance\obj\Debug\net5.0\Distance.genruntimeconfig.cache
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\Distance\bin\Debug\net5.0\Distance.exe
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\Distance\bin\Debug\net5.0\Distance.deps.json
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\Distance\bin\Debug\net5.0\Distance.runtimeconfig.json
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\Distance\bin\Debug\net5.0\Distance.runtimeconfig.dev.json
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\Distance\bin\Debug\net5.0\Distance.dll
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\Distance\bin\Debug\net5.0\Distance.pdb
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\Distance\obj\Debug\net5.0\Distance.csproj.AssemblyReference.cache
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\Distance\obj\Debug\net5.0\Distance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\Distance\obj\Debug\net5.0\Distance.AssemblyInfoInputs.cache
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\Distance\obj\Debug\net5.0\Distance.AssemblyInfo.cs
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\Distance\obj\Debug\net5.0\Distance.csproj.CoreCompileInputs.cache
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\Distance\obj\Debug\net5.0\Distance.dll
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\Distance\obj\Debug\net5.0\refint\Distance.dll
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\Distance\obj\Debug\net5.0\Distance.pdb
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\Distance\obj\Debug\net5.0\Distance.genruntimeconfig.cache
+D:\Repositories\Repos\Prime\ProgrammingMaterials\Intro\Methods\Distance\obj\Debug\net5.0\ref\Distance.dll
