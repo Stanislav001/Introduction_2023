@@ -2,40 +2,31 @@
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            Console.Write("Enter money: ");
-            int heroMoney = int.Parse(Console.ReadLine());
-
-            Console.Write("Enter hp of hero: ");
-            int heroHP = int.Parse(Console.ReadLine());
+            Run();
+        }
+        private static void Run()
+        {
+            int countHeroItems = 0;
+            int heroMoney = ReadIntNumberFromConsole("Enter money: ");
+            int heroHP = ReadIntNumberFromConsole("Enter hp of hero: ");
 
             Console.Write("Enter a comamnd: ");
-            int countHeroItems = 0;
-
             string command = Console.ReadLine();
 
             while (command != "STOP" && heroHP != 0)
             {
                 if (command == "buy")
                 {
-                    Console.Write("Enter a item price: ");
-                    int itemPrice = int.Parse(Console.ReadLine());
-
-                    if (itemPrice <= heroMoney)
-                    {
-                        countHeroItems += 1;
-                        heroMoney -= itemPrice;
-                        Console.WriteLine("You have " + countHeroItems + " items and " + heroMoney + " $");
-                    }
+                    Buy(heroMoney, countHeroItems);
                 }
 
                 if (command == "deposit")
                 {
-                    Console.Write("Enter a deposit sum: ");
-                    int depositSum = int.Parse(Console.ReadLine());
+                    int deposedMoney = ReadIntNumberFromConsole("Enter a deposit sum: ");
 
-                    heroMoney += depositSum;
+                    heroMoney += deposedMoney;
 
                     Console.WriteLine("Now you have " + heroMoney + " $");
                 }
@@ -61,6 +52,24 @@
                     command = Console.ReadLine();
                 }
             }
+        }
+
+        private static int ReadIntNumberFromConsole(string helperText)
+        {
+            Console.Write(helperText);
+            int input = int.Parse(Console.ReadLine());
+
+            return input;
+        }
+
+        private static void Buy(int money, int itemsCount)
+        {
+            int itemPrice = ReadIntNumberFromConsole("Enter a item price: ");
+
+            money -= itemPrice;
+            itemsCount += 1;
+
+            Console.WriteLine("You have " + itemsCount + " items and " + money + " $");
         }
     }
 }
