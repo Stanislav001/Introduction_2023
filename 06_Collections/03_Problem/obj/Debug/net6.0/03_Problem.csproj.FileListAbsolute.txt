@@ -1,0 +1,15 @@
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\06_Collections\03_Problem\obj\Debug\net6.0\03_Problem.csproj.AssemblyReference.cache
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\06_Collections\03_Problem\obj\Debug\net6.0\03_Problem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\06_Collections\03_Problem\obj\Debug\net6.0\03_Problem.AssemblyInfoInputs.cache
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\06_Collections\03_Problem\obj\Debug\net6.0\03_Problem.AssemblyInfo.cs
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\06_Collections\03_Problem\obj\Debug\net6.0\03_Problem.csproj.CoreCompileInputs.cache
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\06_Collections\03_Problem\bin\Debug\net6.0\03_Problem.exe
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\06_Collections\03_Problem\bin\Debug\net6.0\03_Problem.deps.json
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\06_Collections\03_Problem\bin\Debug\net6.0\03_Problem.runtimeconfig.json
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\06_Collections\03_Problem\bin\Debug\net6.0\03_Problem.dll
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\06_Collections\03_Problem\bin\Debug\net6.0\03_Problem.pdb
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\06_Collections\03_Problem\obj\Debug\net6.0\03_Problem.dll
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\06_Collections\03_Problem\obj\Debug\net6.0\refint\03_Problem.dll
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\06_Collections\03_Problem\obj\Debug\net6.0\03_Problem.pdb
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\06_Collections\03_Problem\obj\Debug\net6.0\03_Problem.genruntimeconfig.cache
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\06_Collections\03_Problem\obj\Debug\net6.0\ref\03_Problem.dll

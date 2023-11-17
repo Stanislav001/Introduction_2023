@@ -1,0 +1,15 @@
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\06_Collections\02_ListWithEvenNumbers\bin\Debug\net6.0\02_ListWithEvenNumbers.exe
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\06_Collections\02_ListWithEvenNumbers\bin\Debug\net6.0\02_ListWithEvenNumbers.deps.json
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\06_Collections\02_ListWithEvenNumbers\bin\Debug\net6.0\02_ListWithEvenNumbers.runtimeconfig.json
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\06_Collections\02_ListWithEvenNumbers\bin\Debug\net6.0\02_ListWithEvenNumbers.dll
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\06_Collections\02_ListWithEvenNumbers\bin\Debug\net6.0\02_ListWithEvenNumbers.pdb
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\06_Collections\02_ListWithEvenNumbers\obj\Debug\net6.0\02_ListWithEvenNumbers.csproj.AssemblyReference.cache
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\06_Collections\02_ListWithEvenNumbers\obj\Debug\net6.0\02_ListWithEvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\06_Collections\02_ListWithEvenNumbers\obj\Debug\net6.0\02_ListWithEvenNumbers.AssemblyInfoInputs.cache
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\06_Collections\02_ListWithEvenNumbers\obj\Debug\net6.0\02_ListWithEvenNumbers.AssemblyInfo.cs
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\06_Collections\02_ListWithEvenNumbers\obj\Debug\net6.0\02_ListWithEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\06_Collections\02_ListWithEvenNumbers\obj\Debug\net6.0\02_ListWithEvenNumbers.dll
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\06_Collections\02_ListWithEvenNumbers\obj\Debug\net6.0\refint\02_ListWithEvenNumbers.dll
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\06_Collections\02_ListWithEvenNumbers\obj\Debug\net6.0\02_ListWithEvenNumbers.pdb
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\06_Collections\02_ListWithEvenNumbers\obj\Debug\net6.0\02_ListWithEvenNumbers.genruntimeconfig.cache
+C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\06_Collections\02_ListWithEvenNumbers\obj\Debug\net6.0\ref\02_ListWithEvenNumbers.dll
