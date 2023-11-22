@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nziQtXU53ZX+3aMZdl4MtAQ6sfI3AC1jvQGi0h2A8KrA5juFYqY4k3ovTDx3o6sgphzjF2kkEFgeXNH2QF1pWA==",
+  "dgSpecHash": "ISc59DHRXU3SEArTmVFVSoO2nKX/NHH4aoY3Blh4QV9RzHExNMGoodqd8kaSjmHzDXUHdDal5ymZF46Hkvh6pw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kristian Krastev\\Teaching\\IntroductionToProgramming\\06_Collections\\02_ListWithEvenNumbers\\02_ListWithEvenNumbers.csproj",
+  "projectFilePath": "/Users/stanislav/Desktop/Teaching/Introduction_2023/06_Collections/02_ListWithEvenNumbers/02_ListWithEvenNumbers.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

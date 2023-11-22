@@ -1,15 +1,30 @@
-C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\06_Collections\01_IntroductionToLists\bin\Debug\net6.0\01_IntroductionToLists.exe
-C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\06_Collections\01_IntroductionToLists\bin\Debug\net6.0\01_IntroductionToLists.deps.json
-C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\06_Collections\01_IntroductionToLists\bin\Debug\net6.0\01_IntroductionToLists.runtimeconfig.json
-C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\06_Collections\01_IntroductionToLists\bin\Debug\net6.0\01_IntroductionToLists.dll
-C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\06_Collections\01_IntroductionToLists\bin\Debug\net6.0\01_IntroductionToLists.pdb
-C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\06_Collections\01_IntroductionToLists\obj\Debug\net6.0\01_IntroductionToLists.csproj.AssemblyReference.cache
-C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\06_Collections\01_IntroductionToLists\obj\Debug\net6.0\01_IntroductionToLists.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\06_Collections\01_IntroductionToLists\obj\Debug\net6.0\01_IntroductionToLists.AssemblyInfoInputs.cache
-C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\06_Collections\01_IntroductionToLists\obj\Debug\net6.0\01_IntroductionToLists.AssemblyInfo.cs
-C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\06_Collections\01_IntroductionToLists\obj\Debug\net6.0\01_IntroductionToLists.csproj.CoreCompileInputs.cache
-C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\06_Collections\01_IntroductionToLists\obj\Debug\net6.0\01_IntroductionToLists.dll
-C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\06_Collections\01_IntroductionToLists\obj\Debug\net6.0\refint\01_IntroductionToLists.dll
-C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\06_Collections\01_IntroductionToLists\obj\Debug\net6.0\01_IntroductionToLists.pdb
-C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\06_Collections\01_IntroductionToLists\obj\Debug\net6.0\01_IntroductionToLists.genruntimeconfig.cache
-C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\06_Collections\01_IntroductionToLists\obj\Debug\net6.0\ref\01_IntroductionToLists.dll
+C:/Users/Kristian Krastev/Teaching/IntroductionToProgramming/06_Collections/01_IntroductionToLists/bin/Debug/net6.0/01_IntroductionToLists.exe
+C:/Users/Kristian Krastev/Teaching/IntroductionToProgramming/06_Collections/01_IntroductionToLists/bin/Debug/net6.0/01_IntroductionToLists.deps.json
+C:/Users/Kristian Krastev/Teaching/IntroductionToProgramming/06_Collections/01_IntroductionToLists/bin/Debug/net6.0/01_IntroductionToLists.runtimeconfig.json
+C:/Users/Kristian Krastev/Teaching/IntroductionToProgramming/06_Collections/01_IntroductionToLists/bin/Debug/net6.0/01_IntroductionToLists.dll
+C:/Users/Kristian Krastev/Teaching/IntroductionToProgramming/06_Collections/01_IntroductionToLists/bin/Debug/net6.0/01_IntroductionToLists.pdb
+C:/Users/Kristian Krastev/Teaching/IntroductionToProgramming/06_Collections/01_IntroductionToLists/obj/Debug/net6.0/01_IntroductionToLists.csproj.AssemblyReference.cache
+C:/Users/Kristian Krastev/Teaching/IntroductionToProgramming/06_Collections/01_IntroductionToLists/obj/Debug/net6.0/01_IntroductionToLists.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Kristian Krastev/Teaching/IntroductionToProgramming/06_Collections/01_IntroductionToLists/obj/Debug/net6.0/01_IntroductionToLists.AssemblyInfoInputs.cache
+C:/Users/Kristian Krastev/Teaching/IntroductionToProgramming/06_Collections/01_IntroductionToLists/obj/Debug/net6.0/01_IntroductionToLists.AssemblyInfo.cs
+C:/Users/Kristian Krastev/Teaching/IntroductionToProgramming/06_Collections/01_IntroductionToLists/obj/Debug/net6.0/01_IntroductionToLists.csproj.CoreCompileInputs.cache
+C:/Users/Kristian Krastev/Teaching/IntroductionToProgramming/06_Collections/01_IntroductionToLists/obj/Debug/net6.0/01_IntroductionToLists.dll
+C:/Users/Kristian Krastev/Teaching/IntroductionToProgramming/06_Collections/01_IntroductionToLists/obj/Debug/net6.0/refint/01_IntroductionToLists.dll
+C:/Users/Kristian Krastev/Teaching/IntroductionToProgramming/06_Collections/01_IntroductionToLists/obj/Debug/net6.0/01_IntroductionToLists.pdb
+C:/Users/Kristian Krastev/Teaching/IntroductionToProgramming/06_Collections/01_IntroductionToLists/obj/Debug/net6.0/01_IntroductionToLists.genruntimeconfig.cache
+C:/Users/Kristian Krastev/Teaching/IntroductionToProgramming/06_Collections/01_IntroductionToLists/obj/Debug/net6.0/ref/01_IntroductionToLists.dll
+/Users/stanislav/Desktop/Teaching/Introduction_2023/06_Collections/01_IntroductionToLists/bin/Debug/net6.0/01_IntroductionToLists
+/Users/stanislav/Desktop/Teaching/Introduction_2023/06_Collections/01_IntroductionToLists/bin/Debug/net6.0/01_IntroductionToLists.deps.json
+/Users/stanislav/Desktop/Teaching/Introduction_2023/06_Collections/01_IntroductionToLists/bin/Debug/net6.0/01_IntroductionToLists.runtimeconfig.json
+/Users/stanislav/Desktop/Teaching/Introduction_2023/06_Collections/01_IntroductionToLists/bin/Debug/net6.0/01_IntroductionToLists.dll
+/Users/stanislav/Desktop/Teaching/Introduction_2023/06_Collections/01_IntroductionToLists/bin/Debug/net6.0/01_IntroductionToLists.pdb
+/Users/stanislav/Desktop/Teaching/Introduction_2023/06_Collections/01_IntroductionToLists/obj/Debug/net6.0/01_IntroductionToLists.csproj.AssemblyReference.cache
+/Users/stanislav/Desktop/Teaching/Introduction_2023/06_Collections/01_IntroductionToLists/obj/Debug/net6.0/01_IntroductionToLists.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stanislav/Desktop/Teaching/Introduction_2023/06_Collections/01_IntroductionToLists/obj/Debug/net6.0/01_IntroductionToLists.AssemblyInfoInputs.cache
+/Users/stanislav/Desktop/Teaching/Introduction_2023/06_Collections/01_IntroductionToLists/obj/Debug/net6.0/01_IntroductionToLists.AssemblyInfo.cs
+/Users/stanislav/Desktop/Teaching/Introduction_2023/06_Collections/01_IntroductionToLists/obj/Debug/net6.0/01_IntroductionToLists.csproj.CoreCompileInputs.cache
+/Users/stanislav/Desktop/Teaching/Introduction_2023/06_Collections/01_IntroductionToLists/obj/Debug/net6.0/01_IntroductionToLists.dll
+/Users/stanislav/Desktop/Teaching/Introduction_2023/06_Collections/01_IntroductionToLists/obj/Debug/net6.0/refint/01_IntroductionToLists.dll
+/Users/stanislav/Desktop/Teaching/Introduction_2023/06_Collections/01_IntroductionToLists/obj/Debug/net6.0/01_IntroductionToLists.pdb
+/Users/stanislav/Desktop/Teaching/Introduction_2023/06_Collections/01_IntroductionToLists/obj/Debug/net6.0/01_IntroductionToLists.genruntimeconfig.cache
+/Users/stanislav/Desktop/Teaching/Introduction_2023/06_Collections/01_IntroductionToLists/obj/Debug/net6.0/ref/01_IntroductionToLists.dll

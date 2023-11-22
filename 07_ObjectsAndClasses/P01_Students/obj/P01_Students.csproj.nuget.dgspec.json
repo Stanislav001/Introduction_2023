@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/stanislav/Desktop/Teaching/Introduction_2023/07_ObjectsAndClasses/P01_Students/P01_Students.csproj": {}
+  },
+  "projects": {
+    "/Users/stanislav/Desktop/Teaching/Introduction_2023/07_ObjectsAndClasses/P01_Students/P01_Students.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/stanislav/Desktop/Teaching/Introduction_2023/07_ObjectsAndClasses/P01_Students/P01_Students.csproj",
+        "projectName": "P01_Students",
+        "projectPath": "/Users/stanislav/Desktop/Teaching/Introduction_2023/07_ObjectsAndClasses/P01_Students/P01_Students.csproj",
+        "packagesPath": "/Users/stanislav/.nuget/packages/",
+        "outputPath": "/Users/stanislav/Desktop/Teaching/Introduction_2023/07_ObjectsAndClasses/P01_Students/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/stanislav/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

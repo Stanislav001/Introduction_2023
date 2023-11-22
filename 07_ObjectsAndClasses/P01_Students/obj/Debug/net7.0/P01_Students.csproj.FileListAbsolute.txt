@@ -1,0 +1,15 @@
+/Users/stanislav/Desktop/Teaching/Introduction_2023/07_ObjectsAndClasses/P01_Students/bin/Debug/net7.0/P01_Students
+/Users/stanislav/Desktop/Teaching/Introduction_2023/07_ObjectsAndClasses/P01_Students/bin/Debug/net7.0/P01_Students.deps.json
+/Users/stanislav/Desktop/Teaching/Introduction_2023/07_ObjectsAndClasses/P01_Students/bin/Debug/net7.0/P01_Students.runtimeconfig.json
+/Users/stanislav/Desktop/Teaching/Introduction_2023/07_ObjectsAndClasses/P01_Students/bin/Debug/net7.0/P01_Students.dll
+/Users/stanislav/Desktop/Teaching/Introduction_2023/07_ObjectsAndClasses/P01_Students/bin/Debug/net7.0/P01_Students.pdb
+/Users/stanislav/Desktop/Teaching/Introduction_2023/07_ObjectsAndClasses/P01_Students/obj/Debug/net7.0/P01_Students.csproj.AssemblyReference.cache
+/Users/stanislav/Desktop/Teaching/Introduction_2023/07_ObjectsAndClasses/P01_Students/obj/Debug/net7.0/P01_Students.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stanislav/Desktop/Teaching/Introduction_2023/07_ObjectsAndClasses/P01_Students/obj/Debug/net7.0/P01_Students.AssemblyInfoInputs.cache
+/Users/stanislav/Desktop/Teaching/Introduction_2023/07_ObjectsAndClasses/P01_Students/obj/Debug/net7.0/P01_Students.AssemblyInfo.cs
+/Users/stanislav/Desktop/Teaching/Introduction_2023/07_ObjectsAndClasses/P01_Students/obj/Debug/net7.0/P01_Students.csproj.CoreCompileInputs.cache
+/Users/stanislav/Desktop/Teaching/Introduction_2023/07_ObjectsAndClasses/P01_Students/obj/Debug/net7.0/P01_Students.dll
+/Users/stanislav/Desktop/Teaching/Introduction_2023/07_ObjectsAndClasses/P01_Students/obj/Debug/net7.0/refint/P01_Students.dll
+/Users/stanislav/Desktop/Teaching/Introduction_2023/07_ObjectsAndClasses/P01_Students/obj/Debug/net7.0/P01_Students.pdb
+/Users/stanislav/Desktop/Teaching/Introduction_2023/07_ObjectsAndClasses/P01_Students/obj/Debug/net7.0/P01_Students.genruntimeconfig.cache
+/Users/stanislav/Desktop/Teaching/Introduction_2023/07_ObjectsAndClasses/P01_Students/obj/Debug/net7.0/ref/P01_Students.dll
