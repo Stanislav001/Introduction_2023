@@ -8,26 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Kristian Krastev\\.nuget\\packages\\": {}
+    "/Users/stanislav/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kristian Krastev\\Teaching\\IntroductionToProgramming\\04_Arrays\\P01_DayOfWeek\\P01_DayOfWeek.csproj",
+      "projectUniqueName": "/Users/stanislav/Desktop/Teaching/Introduction_2023/04_Arrays/P01_DayOfWeek/P01_DayOfWeek.csproj",
       "projectName": "P01_DayOfWeek",
-      "projectPath": "C:\\Users\\Kristian Krastev\\Teaching\\IntroductionToProgramming\\04_Arrays\\P01_DayOfWeek\\P01_DayOfWeek.csproj",
-      "packagesPath": "C:\\Users\\Kristian Krastev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kristian Krastev\\Teaching\\IntroductionToProgramming\\04_Arrays\\P01_DayOfWeek\\obj\\",
+      "projectPath": "/Users/stanislav/Desktop/Teaching/Introduction_2023/04_Arrays/P01_DayOfWeek/P01_DayOfWeek.csproj",
+      "packagesPath": "/Users/stanislav/.nuget/packages/",
+      "outputPath": "/Users/stanislav/Desktop/Teaching/Introduction_2023/04_Arrays/P01_DayOfWeek/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Kristian Krastev\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/stanislav/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -61,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
       }
     }
   }

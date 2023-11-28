@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = P03_PrintNumbersInReverseOrder
-build_property.ProjectDir = C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\04_Arrays\P03_PrintNumbersInReverseOrder\
+build_property.ProjectDir = /Users/stanislav/Desktop/Teaching/Introduction_2023/04_Arrays/P03_PrintNumbersInReverseOrder/

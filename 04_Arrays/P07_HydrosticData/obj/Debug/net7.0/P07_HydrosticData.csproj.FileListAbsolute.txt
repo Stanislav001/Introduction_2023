@@ -1,0 +1,15 @@
+/Users/stanislav/Desktop/Teaching/Introduction_2023/04_Arrays/P07_HydrosticData/bin/Debug/net7.0/P07_HydrosticData
+/Users/stanislav/Desktop/Teaching/Introduction_2023/04_Arrays/P07_HydrosticData/bin/Debug/net7.0/P07_HydrosticData.deps.json
+/Users/stanislav/Desktop/Teaching/Introduction_2023/04_Arrays/P07_HydrosticData/bin/Debug/net7.0/P07_HydrosticData.runtimeconfig.json
+/Users/stanislav/Desktop/Teaching/Introduction_2023/04_Arrays/P07_HydrosticData/bin/Debug/net7.0/P07_HydrosticData.dll
+/Users/stanislav/Desktop/Teaching/Introduction_2023/04_Arrays/P07_HydrosticData/bin/Debug/net7.0/P07_HydrosticData.pdb
+/Users/stanislav/Desktop/Teaching/Introduction_2023/04_Arrays/P07_HydrosticData/obj/Debug/net7.0/P07_HydrosticData.csproj.AssemblyReference.cache
+/Users/stanislav/Desktop/Teaching/Introduction_2023/04_Arrays/P07_HydrosticData/obj/Debug/net7.0/P07_HydrosticData.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stanislav/Desktop/Teaching/Introduction_2023/04_Arrays/P07_HydrosticData/obj/Debug/net7.0/P07_HydrosticData.AssemblyInfoInputs.cache
+/Users/stanislav/Desktop/Teaching/Introduction_2023/04_Arrays/P07_HydrosticData/obj/Debug/net7.0/P07_HydrosticData.AssemblyInfo.cs
+/Users/stanislav/Desktop/Teaching/Introduction_2023/04_Arrays/P07_HydrosticData/obj/Debug/net7.0/P07_HydrosticData.csproj.CoreCompileInputs.cache
+/Users/stanislav/Desktop/Teaching/Introduction_2023/04_Arrays/P07_HydrosticData/obj/Debug/net7.0/P07_HydrosticData.dll
+/Users/stanislav/Desktop/Teaching/Introduction_2023/04_Arrays/P07_HydrosticData/obj/Debug/net7.0/refint/P07_HydrosticData.dll
+/Users/stanislav/Desktop/Teaching/Introduction_2023/04_Arrays/P07_HydrosticData/obj/Debug/net7.0/P07_HydrosticData.pdb
+/Users/stanislav/Desktop/Teaching/Introduction_2023/04_Arrays/P07_HydrosticData/obj/Debug/net7.0/P07_HydrosticData.genruntimeconfig.cache
+/Users/stanislav/Desktop/Teaching/Introduction_2023/04_Arrays/P07_HydrosticData/obj/Debug/net7.0/ref/P07_HydrosticData.dll

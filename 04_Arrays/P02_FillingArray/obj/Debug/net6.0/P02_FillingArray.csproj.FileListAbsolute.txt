@@ -1,15 +1,30 @@
-C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\04_Arrays\P02_FillingArray\bin\Debug\net6.0\P02_FillingArray.exe
-C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\04_Arrays\P02_FillingArray\bin\Debug\net6.0\P02_FillingArray.deps.json
-C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\04_Arrays\P02_FillingArray\bin\Debug\net6.0\P02_FillingArray.runtimeconfig.json
-C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\04_Arrays\P02_FillingArray\bin\Debug\net6.0\P02_FillingArray.dll
-C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\04_Arrays\P02_FillingArray\bin\Debug\net6.0\P02_FillingArray.pdb
-C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\04_Arrays\P02_FillingArray\obj\Debug\net6.0\P02_FillingArray.csproj.AssemblyReference.cache
-C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\04_Arrays\P02_FillingArray\obj\Debug\net6.0\P02_FillingArray.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\04_Arrays\P02_FillingArray\obj\Debug\net6.0\P02_FillingArray.AssemblyInfoInputs.cache
-C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\04_Arrays\P02_FillingArray\obj\Debug\net6.0\P02_FillingArray.AssemblyInfo.cs
-C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\04_Arrays\P02_FillingArray\obj\Debug\net6.0\P02_FillingArray.csproj.CoreCompileInputs.cache
-C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\04_Arrays\P02_FillingArray\obj\Debug\net6.0\P02_FillingArray.dll
-C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\04_Arrays\P02_FillingArray\obj\Debug\net6.0\refint\P02_FillingArray.dll
-C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\04_Arrays\P02_FillingArray\obj\Debug\net6.0\P02_FillingArray.pdb
-C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\04_Arrays\P02_FillingArray\obj\Debug\net6.0\P02_FillingArray.genruntimeconfig.cache
-C:\Users\Kristian Krastev\Teaching\IntroductionToProgramming\04_Arrays\P02_FillingArray\obj\Debug\net6.0\ref\P02_FillingArray.dll
+C:/Users/Kristian Krastev/Teaching/IntroductionToProgramming/04_Arrays/P02_FillingArray/bin/Debug/net6.0/P02_FillingArray.exe
+C:/Users/Kristian Krastev/Teaching/IntroductionToProgramming/04_Arrays/P02_FillingArray/bin/Debug/net6.0/P02_FillingArray.deps.json
+C:/Users/Kristian Krastev/Teaching/IntroductionToProgramming/04_Arrays/P02_FillingArray/bin/Debug/net6.0/P02_FillingArray.runtimeconfig.json
+C:/Users/Kristian Krastev/Teaching/IntroductionToProgramming/04_Arrays/P02_FillingArray/bin/Debug/net6.0/P02_FillingArray.dll
+C:/Users/Kristian Krastev/Teaching/IntroductionToProgramming/04_Arrays/P02_FillingArray/bin/Debug/net6.0/P02_FillingArray.pdb
+C:/Users/Kristian Krastev/Teaching/IntroductionToProgramming/04_Arrays/P02_FillingArray/obj/Debug/net6.0/P02_FillingArray.csproj.AssemblyReference.cache
+C:/Users/Kristian Krastev/Teaching/IntroductionToProgramming/04_Arrays/P02_FillingArray/obj/Debug/net6.0/P02_FillingArray.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Kristian Krastev/Teaching/IntroductionToProgramming/04_Arrays/P02_FillingArray/obj/Debug/net6.0/P02_FillingArray.AssemblyInfoInputs.cache
+C:/Users/Kristian Krastev/Teaching/IntroductionToProgramming/04_Arrays/P02_FillingArray/obj/Debug/net6.0/P02_FillingArray.AssemblyInfo.cs
+C:/Users/Kristian Krastev/Teaching/IntroductionToProgramming/04_Arrays/P02_FillingArray/obj/Debug/net6.0/P02_FillingArray.csproj.CoreCompileInputs.cache
+C:/Users/Kristian Krastev/Teaching/IntroductionToProgramming/04_Arrays/P02_FillingArray/obj/Debug/net6.0/P02_FillingArray.dll
+C:/Users/Kristian Krastev/Teaching/IntroductionToProgramming/04_Arrays/P02_FillingArray/obj/Debug/net6.0/refint/P02_FillingArray.dll
+C:/Users/Kristian Krastev/Teaching/IntroductionToProgramming/04_Arrays/P02_FillingArray/obj/Debug/net6.0/P02_FillingArray.pdb
+C:/Users/Kristian Krastev/Teaching/IntroductionToProgramming/04_Arrays/P02_FillingArray/obj/Debug/net6.0/P02_FillingArray.genruntimeconfig.cache
+C:/Users/Kristian Krastev/Teaching/IntroductionToProgramming/04_Arrays/P02_FillingArray/obj/Debug/net6.0/ref/P02_FillingArray.dll
+/Users/stanislav/Desktop/Teaching/Introduction_2023/04_Arrays/P02_FillingArray/bin/Debug/net6.0/P02_FillingArray
+/Users/stanislav/Desktop/Teaching/Introduction_2023/04_Arrays/P02_FillingArray/bin/Debug/net6.0/P02_FillingArray.deps.json
+/Users/stanislav/Desktop/Teaching/Introduction_2023/04_Arrays/P02_FillingArray/bin/Debug/net6.0/P02_FillingArray.runtimeconfig.json
+/Users/stanislav/Desktop/Teaching/Introduction_2023/04_Arrays/P02_FillingArray/bin/Debug/net6.0/P02_FillingArray.dll
+/Users/stanislav/Desktop/Teaching/Introduction_2023/04_Arrays/P02_FillingArray/bin/Debug/net6.0/P02_FillingArray.pdb
+/Users/stanislav/Desktop/Teaching/Introduction_2023/04_Arrays/P02_FillingArray/obj/Debug/net6.0/P02_FillingArray.csproj.AssemblyReference.cache
+/Users/stanislav/Desktop/Teaching/Introduction_2023/04_Arrays/P02_FillingArray/obj/Debug/net6.0/P02_FillingArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stanislav/Desktop/Teaching/Introduction_2023/04_Arrays/P02_FillingArray/obj/Debug/net6.0/P02_FillingArray.AssemblyInfoInputs.cache
+/Users/stanislav/Desktop/Teaching/Introduction_2023/04_Arrays/P02_FillingArray/obj/Debug/net6.0/P02_FillingArray.AssemblyInfo.cs
+/Users/stanislav/Desktop/Teaching/Introduction_2023/04_Arrays/P02_FillingArray/obj/Debug/net6.0/P02_FillingArray.csproj.CoreCompileInputs.cache
+/Users/stanislav/Desktop/Teaching/Introduction_2023/04_Arrays/P02_FillingArray/obj/Debug/net6.0/P02_FillingArray.dll
+/Users/stanislav/Desktop/Teaching/Introduction_2023/04_Arrays/P02_FillingArray/obj/Debug/net6.0/refint/P02_FillingArray.dll
+/Users/stanislav/Desktop/Teaching/Introduction_2023/04_Arrays/P02_FillingArray/obj/Debug/net6.0/P02_FillingArray.pdb
+/Users/stanislav/Desktop/Teaching/Introduction_2023/04_Arrays/P02_FillingArray/obj/Debug/net6.0/P02_FillingArray.genruntimeconfig.cache
+/Users/stanislav/Desktop/Teaching/Introduction_2023/04_Arrays/P02_FillingArray/obj/Debug/net6.0/ref/P02_FillingArray.dll

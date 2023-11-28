@@ -4,6 +4,8 @@ namespace P01_Students
 {
 	public class Student
 	{
+		public int Id { get; set; }
+
 		public string FirstName { get; set; }
 
 		public string LastName { get; set; }
@@ -12,33 +14,49 @@ namespace P01_Students
 
 		public int Age { get; set; }
 
-		public Student()
-		{
+		public List<Subject> Subjects { get; set; }
 
-		}
-
-		public Student(string firstName, string lastName)
+		public Student(int id, string firstName, string lastName, string city, int age, List<Subject> subjects)
 		{
-			this.FirstName = firstName;
-			this.LastName = lastName;
-		}
-
-		public Student(string firstName, string lastName, string city, int age)
-		{
+			this.Id = id;
 			this.FirstName = firstName;
 			this.LastName = lastName;
 			this.City = city;
 			this.Age = age;
+			this.Subjects = subjects;
 		}
 
-		public void SayHello(string name)
+		public string GetFullName()
 		{
-			Console.WriteLine($"{this.FirstName} say hello to {name}");
+			return $"{this.FirstName} {this.LastName}";
 		}
 
-		public void IdCard()
+		public void GetSubjects()
 		{
-			Console.WriteLine($"First name -> {this.FirstName}, last name -> {this.LastName}, age -> {this.Age}, city -> {this.City}");
+			foreach (var subject in this.Subjects)
+			{
+				Console.WriteLine($"{subject.Name} - {subject.Grade}");
+			}
 		}
+
+		public string AverageGrade()
+		{
+			double average = CalculateAverageGrade();
+
+			return $"{GetFullName()} - {average}";
+        }
+
+		private double CalculateAverageGrade()
+		{
+            double sum = 0;
+
+            foreach (var subject in this.Subjects)
+            {
+                sum += subject.Grade;
+            }
+            double average = sum / this.Subjects.Count();
+
+			return average;
+        }
 	}
 }

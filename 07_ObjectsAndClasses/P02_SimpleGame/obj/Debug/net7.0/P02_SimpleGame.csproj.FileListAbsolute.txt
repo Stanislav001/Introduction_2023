@@ -1,0 +1,15 @@
+/Users/stanislav/Desktop/Teaching/Introduction_2023/07_ObjectsAndClasses/P02_SimpleGame/bin/Debug/net7.0/P02_SimpleGame
+/Users/stanislav/Desktop/Teaching/Introduction_2023/07_ObjectsAndClasses/P02_SimpleGame/bin/Debug/net7.0/P02_SimpleGame.deps.json
+/Users/stanislav/Desktop/Teaching/Introduction_2023/07_ObjectsAndClasses/P02_SimpleGame/bin/Debug/net7.0/P02_SimpleGame.runtimeconfig.json
+/Users/stanislav/Desktop/Teaching/Introduction_2023/07_ObjectsAndClasses/P02_SimpleGame/bin/Debug/net7.0/P02_SimpleGame.dll
+/Users/stanislav/Desktop/Teaching/Introduction_2023/07_ObjectsAndClasses/P02_SimpleGame/bin/Debug/net7.0/P02_SimpleGame.pdb
+/Users/stanislav/Desktop/Teaching/Introduction_2023/07_ObjectsAndClasses/P02_SimpleGame/obj/Debug/net7.0/P02_SimpleGame.csproj.AssemblyReference.cache
+/Users/stanislav/Desktop/Teaching/Introduction_2023/07_ObjectsAndClasses/P02_SimpleGame/obj/Debug/net7.0/P02_SimpleGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stanislav/Desktop/Teaching/Introduction_2023/07_ObjectsAndClasses/P02_SimpleGame/obj/Debug/net7.0/P02_SimpleGame.AssemblyInfoInputs.cache
+/Users/stanislav/Desktop/Teaching/Introduction_2023/07_ObjectsAndClasses/P02_SimpleGame/obj/Debug/net7.0/P02_SimpleGame.AssemblyInfo.cs
+/Users/stanislav/Desktop/Teaching/Introduction_2023/07_ObjectsAndClasses/P02_SimpleGame/obj/Debug/net7.0/P02_SimpleGame.csproj.CoreCompileInputs.cache
+/Users/stanislav/Desktop/Teaching/Introduction_2023/07_ObjectsAndClasses/P02_SimpleGame/obj/Debug/net7.0/P02_SimpleGame.dll
+/Users/stanislav/Desktop/Teaching/Introduction_2023/07_ObjectsAndClasses/P02_SimpleGame/obj/Debug/net7.0/refint/P02_SimpleGame.dll
+/Users/stanislav/Desktop/Teaching/Introduction_2023/07_ObjectsAndClasses/P02_SimpleGame/obj/Debug/net7.0/P02_SimpleGame.pdb
+/Users/stanislav/Desktop/Teaching/Introduction_2023/07_ObjectsAndClasses/P02_SimpleGame/obj/Debug/net7.0/P02_SimpleGame.genruntimeconfig.cache
+/Users/stanislav/Desktop/Teaching/Introduction_2023/07_ObjectsAndClasses/P02_SimpleGame/obj/Debug/net7.0/ref/P02_SimpleGame.dll
