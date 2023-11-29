@@ -1,28 +1,26 @@
 ﻿<Properties StartupConfiguration="{5AF748F2-F438-416E-8208-9807A619EDA8}|Default">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.P02__SimpleGame PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="P02_SimpleGame/Program.cs">
     <Files>
-      <File FileName="P02_SimpleGame/Program.cs" Line="18" Column="23" />
-      <File FileName="P02_SimpleGame/Hero.cs" Line="42" Column="21" />
-      <File FileName="P02_SimpleGame/Item.cs" Line="10" Column="23" />
+      <File FileName="P02_SimpleGame/Program.cs" Line="33" Column="1" />
+      <File FileName="P02_SimpleGame/Hero.cs" Line="13" Column="1" />
+      <File FileName="P02_SimpleGame/Item.cs" Line="11" Column="21" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="07_ObjectsAndClasses" expanded="True">
-            <Node name="P02_SimpleGame">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+          <Node name="07_ObjectsAndClasses">
+            <Node name="P02_SimpleGame" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.P01__Students PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.P02__SimpleGame PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

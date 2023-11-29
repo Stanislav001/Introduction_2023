@@ -11,12 +11,12 @@ namespace P02_SimpleGame
 
 		public List<Item> Items { get; set; }
 
-		public Hero(int hp, string name, double balance, List<Item> items)
+		public Hero(int hp, string name, double balance)
 		{
 			this.Hp = hp;
 			this.Name = name;
 			this.Balance = balance;
-			this.Items = items;
+			this.Items = new List<Item>();
 		}
 
         public void AddItem(Item item)
@@ -43,10 +43,21 @@ namespace P02_SimpleGame
 
         }
 
-		private void GetInformation()
+		public void GetInformation()
 		{
-			Console.WriteLine($"You have ${this.Hp}hp, {this.Balance}$ and ${this.Items.Count()} items");
+			Console.WriteLine($"You have {this.Hp}hp, {this.Balance}$ and {this.Items.Count()} items");
 		}
+
+		public void GetEndInfo()
+		{
+            Console.WriteLine($"You have {this.Hp}hp, {this.Balance}$ and {this.Items.Count()} items");
+			Console.WriteLine("Your items: ");
+
+			foreach (var item in this.Items)
+			{
+				Console.WriteLine($"{item.Name} <-> {item.Price}");
+			}
+        }
     }
 }
 
