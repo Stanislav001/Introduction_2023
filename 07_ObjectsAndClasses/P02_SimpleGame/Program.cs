@@ -10,13 +10,11 @@ public class Program
 
         List<Item> items = new List<Item>() { weapon, armor, ring };
 
-        // hero name 
-        // balance -> 100
-        // hp -> 10
-        Hero hero = new Hero(3, "Pesho", 100);
+        string heroName = ReadStringFromConsole("Enter hero name: ");
 
-        Console.Write("Enter command: ");
-        string command = Console.ReadLine();
+        Hero hero = new Hero(heroName);
+
+        string command = ReadStringFromConsole("Enter command: ");
 
         while (command != "stop")
         {
@@ -27,8 +25,7 @@ public class Program
 
             if (command == "buy")
             {
-                Console.Write("Enter name of item: ");
-                string itemName = Console.ReadLine();
+                string itemName = ReadStringFromConsole("Enter name of item: ");
                 
                 Item existingItem = items.Find(item => item.Name.ToLower() == itemName.ToLower());
 
@@ -62,10 +59,16 @@ public class Program
                 hero.GetInformation();
             }
 
-            Console.Write("Enter command: ");
-            command = Console.ReadLine();
+            command = ReadStringFromConsole("Enter command: ");
         }
+        hero.GetInformation();
+    }
 
-        hero.GetEndInfo();
+    private static string ReadStringFromConsole(string helperHelp)
+    {
+        Console.Write(helperHelp);
+        string input = Console.ReadLine();
+
+        return input;
     }
 }

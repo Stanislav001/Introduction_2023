@@ -3,7 +3,10 @@ namespace P02_SimpleGame
 {
 	public class Hero
 	{
-		public int Hp { get; set; }
+		private const int START_HERO_HP = 10;
+		private const int START_HERO_BALANCE = 10;
+
+        public int Hp { get; set; }
 
 		public string Name { get; set; }
 
@@ -11,12 +14,12 @@ namespace P02_SimpleGame
 
 		public List<Item> Items { get; set; }
 
-		public Hero(int hp, string name, double balance)
+		public Hero(string name)
 		{
-			this.Hp = hp;
 			this.Name = name;
-			this.Balance = balance;
+			this.Hp = START_HERO_HP;
 			this.Items = new List<Item>();
+			this.Balance = START_HERO_BALANCE;
 		}
 
         public void AddItem(Item item)
@@ -24,33 +27,31 @@ namespace P02_SimpleGame
 			this.Balance -= item.Price;
 			this.Items.Add(item);
 
-			GetInformation();
+            GetInformationHelper();
         }
 
 		public void DepositMoney(double money)
 		{
 			this.Balance += money;
 
-			GetInformation();
-
+            GetInformationHelper();
         }
 
 		public void Attack()
 		{
 			this.Hp -= 1;
 
-			GetInformation();
-
+            GetInformationHelper();
         }
 
-		public void GetInformation()
+		private void GetInformationHelper()
 		{
 			Console.WriteLine($"You have {this.Hp}hp, {this.Balance}$ and {this.Items.Count()} items");
 		}
 
-		public void GetEndInfo()
+		public void GetInformation()
 		{
-            Console.WriteLine($"You have {this.Hp}hp, {this.Balance}$ and {this.Items.Count()} items");
+			GetInformationHelper();
 			Console.WriteLine("Your items: ");
 
 			foreach (var item in this.Items)
