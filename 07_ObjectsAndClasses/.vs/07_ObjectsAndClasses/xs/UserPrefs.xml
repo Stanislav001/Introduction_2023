@@ -1,16 +1,11 @@
-﻿<Properties StartupConfiguration="{5AF748F2-F438-416E-8208-9807A619EDA8}|Default">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.P02__SimpleGame PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.P01__Students PreferredExecutionTarget="MonoDevelop.Default" />
+﻿<Properties StartupConfiguration="{444D4E70-5D6E-44B0-B20B-4EF77BC36C38}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.03__BankAccount FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="P02_SimpleGame/Program.cs">
     <Files>
-      <File FileName="P02_SimpleGame/Program.cs" Line="63" Column="10" />
-      <File FileName="P02_SimpleGame/Hero.cs" Line="56" Column="1" />
-      <File FileName="P02_SimpleGame/Item.cs" Line="8" Column="1" />
+      <File FileName="P02_SimpleGame/Program.cs" Line="13" Column="70" />
+      <File FileName="P02_SimpleGame/Hero.cs" Line="18" Column="4" />
+      <File FileName="P02_SimpleGame/Item.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -24,5 +19,9 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.P02__SimpleGame PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.P01__Students PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
 </Properties>
